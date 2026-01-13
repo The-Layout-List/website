@@ -17,14 +17,6 @@
 	"enjoyment": 9,
 	"records": [
 		{
-			"user": "Hydraniac",
-			"link": "https://youtu.be/DQEUkW49hkM?si=2AX1AdyZTyFw2UIs",
-			"percent": 100,
-			"hz": 240,
-			"mobile": false,
-			"enjoyment": 0
-		},
-		{
 			"user": "Robotic",
 			"link": "https://www.youtube.com/watch?v=OVpM4R_zGfk",
 			"percent": 100,
@@ -54,6 +46,14 @@
 			"percent": 100,
 			"hz": 480,
 			"enjoyment": 7
+		},
+		{
+			"user": "Hydraniac",
+			"link": "https://youtu.be/DQEUkW49hkM?si=2AX1AdyZTyFw2UIs",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 0
 		},
 		{
 			"user": "zwren",
