@@ -21,6 +21,14 @@
 			"percent": 100,
 			"hz": 288,
 			"enjoyment": 9
+		},
+		{
+			"user": "zwren",
+			"link": "https://youtu.be/7Thc7c0N694",
+			"percent": 100,
+			"hz": 360,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
