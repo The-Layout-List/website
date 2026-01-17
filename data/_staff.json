@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "Evil",
+        "name": "evil",
         "link": "https://www.youtube.com/@EvilEmperium"
     },
     {
@@ -11,32 +11,32 @@
     },
     {
         "role": "owner",
-        "name": "Sphericle",
+        "name": "phericle",
         "link": "https://youtube.com/@zsphericle"
     },
     {
         "role": "helper",
-        "name": "Salukis",
-        "link": "https://www.youtube.com/@Salukis"
+        "name": "Infinera",
+        "link": "https://www.youtube.com/@infi9626"
     },
     {
         "role": "helper",
-        "name": "Skip",
+        "name": "skiptracingclub",
         "link": "https://www.youtube.com/@skiptracingclub"
     },
     {
         "role": "helper",
-        "name": "Sn0w",
+        "name": "sn0wiscold",
         "link": "https://www.youtube.com/@sn0wiscold"
     },
     {
         "role": "helper",
-        "name": "Tangi",
+        "name": "tangi",
         "link": "https://www.youtube.com/@Tangiiness"
     },
     {
         "role": "dev",
-        "name": "Sphericle",
-        "link": "https://youtube.com/@zsphericle"
+        "name": "sphericle",
+        "link": "https://github.com/sphericle"
     }
 ]
