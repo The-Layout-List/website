@@ -62,6 +62,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 6
+		},
+		{
+			"user": "thenamesfathom",
+			"link": "https://youtu.be/pJuu3I-q8Po",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 7
 		}
 	]
 }
