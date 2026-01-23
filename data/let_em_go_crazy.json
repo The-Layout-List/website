@@ -1,12 +1,23 @@
 {
 	"id": 130594681,
 	"name": "Let em go CRAZY",
-	"creators": ["Zyxo"],
+	"creators": [
+		"Zyxo"
+	],
 	"verifier": "Zyxo",
 	"verification": "https://youtu.be/l35UJM482FY",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 2,
 	"song": "Cant Let Go - DJVI",
-	"records": []
+	"records": [
+		{
+			"user": "xvelocityy",
+			"link": "https://youtu.be/iScNyKRBNh0",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true,
+			"enjoyment": 4
+		}
+	]
 }
