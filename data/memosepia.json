@@ -1,7 +1,9 @@
 {
 	"id": 106852279,
 	"name": "Memosepia",
-	"creators": ["zCriox"],
+	"creators": [
+		"zCriox"
+	],
 	"verifier": "Creeevy",
 	"verification": "https://www.youtube.com/watch?v=uak-iCG3hK0",
 	"percentToQualify": 60,
@@ -10,5 +12,13 @@
 	"song": "メモセピア - sajou no hana",
 	"songLink": "https://drive.google.com/file/d/1SGlqGQ9FOekQNw5B76gzFAfeLH5YF7nv/view?usp=sharing",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "sn0w",
+			"link": "https://medal.tv/games/geometry-dash/clips/lYwOJtfZgAkcqBJFN?invite=cr-MSxpN1MsMjY3Njk2MzQ2&v=72",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
+		}
+	]
 }
