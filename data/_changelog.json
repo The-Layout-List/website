@@ -1258,5 +1258,14 @@
 		"from_rank": null,
 		"above": "unnamed_sphere_level",
 		"below": "myheadhurts"
+	},
+	{
+		"date": 1769314522,
+		"action": "placed",
+		"name": "tolerance",
+		"to_rank": 122,
+		"from_rank": null,
+		"above": "maximum_energy",
+		"below": "liminality"
 	}
 ]
