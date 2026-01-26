@@ -32,6 +32,14 @@
 	"password": "Free to copy",
 	"difficulty": 10,
 	"song": "Rukkus - Red Flag",
-	"records": [],
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://medal.tv/games/geometry-dash/clips/lZlOikxsd_VjfbSz3?invite=cr-MSw3cjIsMTg1OTcxMTAw&v=167",
+			"percent": 80,
+			"hz": 240,
+			"enjoyment": 9
+		}
+	],
 	"songLink": "https://drive.google.com/file/d/1ectBHB9e5Amsqlfl4yWHS429FFbBo_mg/view?usp=sharing"
 }
