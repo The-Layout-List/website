@@ -1,7 +1,9 @@
 {
 	"id": 114761593,
 	"name": "mr wavejib",
-	"creators": ["Woachi"],
+	"creators": [
+		"Woachi"
+	],
 	"verifier": "Woachi",
 	"verification": "https://youtu.be/ZqWGmO2Aa2Q",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 3,
 	"song": "AuSk - Beryl Fortress",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "Poke Zach",
+			"link": "https://youtu.be/b8n-UjMXozo?si=mTdf9Ge4DfsKa8Kt",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
+		}
+	]
 }
