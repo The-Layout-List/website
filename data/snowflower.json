@@ -542,6 +542,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "TheDeluxeGMD",
+			"link": "https://youtu.be/j6UbI-FOtwc?si=CKrc5xPmFTNsgJMU",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 4,
+			"mobile": true
 		}
 	]
 }
