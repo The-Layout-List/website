@@ -61,6 +61,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "gam",
+			"link": "https://www.youtube.com/watch?v=QYxd1ol7qG4",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 10
 		}
 	]
 }
