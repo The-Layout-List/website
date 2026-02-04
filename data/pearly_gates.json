@@ -596,6 +596,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "bocaj583",
+			"link": "https://youtu.be/m530ty069Ag?si=4VE9vsO88O3seBI6",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
