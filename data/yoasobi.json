@@ -534,6 +534,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "NLShorty",
+			"link": "https://youtu.be/bn2Cf4rO0rw?si=2Ke5iUt_gnqVSB0N&t=38",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 0
 		}
 	]
 }
