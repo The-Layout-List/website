@@ -37,6 +37,13 @@
 			"enjoyment": 10
 		},
 		{
+			"user": "sli",
+			"link": "https://youtu.be/tOliuP-EPGg?si=UZwTT-z-Mb5WOl5e",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		},
+		{
 			"user": "Vink",
 			"link": "https://youtu.be/KE6lWxLdMa8",
 			"percent": 100,
@@ -53,13 +60,6 @@
 		{
 			"user": "GenesiSuperNova",
 			"link": "https://medal.tv/games/geometry-dash/clips/m0PE9ZT2QXng83tbi?invite=cr-MSxpN1ksNDA0MzczNjE1&v=80",
-			"percent": 100,
-			"hz": 240,
-			"enjoyment": 10
-		},
-		{
-			"user": "sli",
-			"link": "https://youtu.be/tOliuP-EPGg?si=UZwTT-z-Mb5WOl5e",
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
