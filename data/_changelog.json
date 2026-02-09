@@ -1294,5 +1294,14 @@
 		"from_rank": null,
 		"above": "the_fishies_are_dead",
 		"below": "manslaughter"
+	},
+	{
+		"date": 1770609226,
+		"action": "placed",
+		"name": "novasphere",
+		"to_rank": 461,
+		"from_rank": null,
+		"above": "diyu",
+		"below": "acku"
 	}
 ]
