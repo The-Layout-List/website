@@ -1312,5 +1312,14 @@
 		"from_rank": null,
 		"above": "fifty_k",
 		"below": "dark_matter"
+	},
+	{
+		"date": 1770609404,
+		"action": "placed",
+		"name": "quacland",
+		"to_rank": 117,
+		"from_rank": null,
+		"above": "lawnmower_corridor",
+		"below": "raid"
 	}
 ]
