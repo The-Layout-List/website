@@ -1,7 +1,9 @@
 {
 	"id": 132180746,
 	"name": "snow falls at night",
-	"creators": ["enexyl","flarelog"],
+	"creators": [
+		"enexyl"
+	],
 	"verifier": "enexyl",
 	"verification": "https://youtu.be/XaRLiX49-r8",
 	"percentToQualify": 100,
