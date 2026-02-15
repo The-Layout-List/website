@@ -1,12 +1,22 @@
 {
 	"id": 107151403,
 	"name": "SorryForPartying",
-	"creators": ["Asteria."],
+	"creators": [
+		"Asteria."
+	],
 	"verifier": "Riley",
 	"verification": "https://www.youtube.com/watch?v=m9le41lZpU0",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 5,
 	"song": "cornandbeans - Event Horizon x LMFAO - Sorry For Party Rocking",
-	"records": []
+	"records": [
+		{
+			"user": "sans_hanitizer",
+			"link": "https://medal.tv/games/geometry-dash/clips/m4C8Jm44MfGlkMCpR?invite=cr-MSxNQkksNDc1MjEzMzM5&v=139",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
+		}
+	]
 }
