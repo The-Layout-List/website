@@ -1,7 +1,22 @@
 {
 	"id": 131425742,
 	"name": "WAR",
-	"creators": ["fae","Tanginess","pivithasnolife","ApplesBeyond","Xeronius","Infinera","enexyl","dunix","Squidkid72","Screendoe","alen","Diogan","fusemax","Lani"],
+	"creators": [
+		"fae",
+		"Tanginess",
+		"pivithasnolife",
+		"ApplesBeyond",
+		"Xeronius",
+		"Infinera",
+		"enexyl",
+		"dunix",
+		"Squidkid72",
+		"Screendoe",
+		"alen",
+		"Diogan",
+		"fusemax",
+		"Lani"
+	],
 	"verifier": "Hydraniac",
 	"verification": "https://youtu.be/gqJWA1GUo9I?si=yPnUDi3RRAajvBi2",
 	"percentToQualify": 53,
@@ -10,5 +25,13 @@
 	"song": "Pizza Tower OST - Thousand March (WAR)",
 	"songLink": "https://drive.google.com/file/d/1xzfrSr4XQbDYGkbhArXxGQcq69Gt3DEi/view?usp=sharing",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "Screendoe",
+			"link": "https://medal.tv/games/geometry-dash/clips/lQezH1jma6GszZ5sX/spok?invite=cr-MSw4ZXosMjEyMTU0NjM2LA",
+			"percent": 71,
+			"hz": 480,
+			"enjoyment": 7
+		}
+	]
 }
