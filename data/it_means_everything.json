@@ -70,6 +70,13 @@
 			"percent": 100,
 			"hz": 480,
 			"enjoyment": 9
+		},
+		{
+			"user": "Shwirl",
+			"link": "https://www.youtube.com/watch?v=pBkoooqy5BI",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
 		}
 	]
 }
