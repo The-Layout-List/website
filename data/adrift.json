@@ -215,6 +215,13 @@
 			"percent": 100,
 			"hz": 350,
 			"enjoyment": 8
+		},
+		{
+			"user": "thecatastronaut",
+			"link": "https://youtu.be/j8kNePzlakE",
+			"percent": 100,
+			"hz": 120,
+			"mobile": false
 		}
 	]
 }

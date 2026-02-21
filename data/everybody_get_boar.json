@@ -184,6 +184,13 @@
 			"hz": 60,
 			"enjoyment": 4,
 			"mobile": true
+		},
+		{
+			"user": "thecatastronaut",
+			"link": "https://youtu.be/j8kNePzlakE",
+			"percent": 100,
+			"hz": 120,
+			"mobile": false
 		}
 	]
 }

@@ -135,6 +135,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "thecatastronaut",
+			"link": "https://youtu.be/j8kNePzlakE",
+			"percent": 100,
+			"hz": 120,
+			"mobile": false
 		}
 	]
 }
