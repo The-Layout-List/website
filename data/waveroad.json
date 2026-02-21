@@ -131,6 +131,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
+		},
+		{
+			"user": "UntestedGMD",
+			"link": "https://youtu.be/kE2aOlzbxNA",
+			"percent": 100,
+			"hz": 700,
+			"enjoyment": 3
 		}
 	]
 }
