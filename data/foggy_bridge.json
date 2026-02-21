@@ -484,6 +484,14 @@
 			"link": "https://youtu.be/lt5kH9BgR-M?si=uRNqnUPh6l0cMUXE",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": "GraphixGMD",
+			"link": "https://youtu.be/94nniXNPTyU?si=a9Y6X_ataRIGAio5",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
