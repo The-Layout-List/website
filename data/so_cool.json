@@ -1737,6 +1737,14 @@
 			"percent": 100,
 			"hz": 180,
 			"enjoyment": 8
+		},
+		{
+			"user": "ATLMortal",
+			"link": "https://youtu.be/Kh7GFkkdQ0Y?si=1XKmiakWxlVPIbS1",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false,
+			"enjoyment": 9
 		}
 	]
 }
