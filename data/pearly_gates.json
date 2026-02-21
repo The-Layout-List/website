@@ -611,6 +611,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 8
+		},
+		{
+			"user": "DeltaJune",
+			"link": "https://youtu.be/0mPgcXWjsYI",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8
 		}
 	]
 }
