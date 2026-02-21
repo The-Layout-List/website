@@ -34,6 +34,14 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": false
+		},
+		{
+			"user": "Virek",
+			"link": "https://youtu.be/qVNTG3HEkfg",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 3,
+			"mobile": true
 		}
 	]
 }
