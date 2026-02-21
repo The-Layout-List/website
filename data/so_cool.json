@@ -1707,6 +1707,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 8
+		},
+		{
+			"user": "westleyprogames",
+			"link": "https://www.youtube.com/watch?v=kaauzgNYI4k",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 9
 		}
 	]
 }
