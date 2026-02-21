@@ -585,6 +585,14 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "skyquaky",
+			"link": "https://youtu.be/bjJLDinv_yc",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
