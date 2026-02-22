@@ -353,6 +353,13 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 6
+		},
+		{
+			"user": "mrhopegd",
+			"link": "https://youtu.be/i39ryiMzttY?si=lASfXeER44EiSETY",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 5
 		}
 	]
 }
