@@ -63,6 +63,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "Hululu",
+			"link": "https://www.youtube.com/watch?v=VrT2ylK9HsM",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 10
 		}
 	]
 }
