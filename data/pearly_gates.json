@@ -618,6 +618,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 8
+		},
+		{
+			"user": "TheShadyGray",
+			"link": "https://youtu.be/cq5fogxpDSc",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
 		}
 	]
 }
