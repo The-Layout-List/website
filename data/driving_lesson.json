@@ -283,6 +283,13 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": false
+		},
+		{
+			"user": "Turborichi",
+			"link": "https://www.youtube.com/watch?v=bPA-QJj7yp4",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 6
 		}
 	]
 }
