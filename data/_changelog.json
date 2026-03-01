@@ -1375,5 +1375,14 @@
 		"from_rank": null,
 		"above": "blade_of_forsaken",
 		"below": "liminality"
+	},
+	{
+		"date": 1772400683,
+		"action": "placed",
+		"name": "red_gaze",
+		"to_rank": 239,
+		"from_rank": null,
+		"above": "ryoiki_tenkai",
+		"below": "nautilus"
 	}
 ]
