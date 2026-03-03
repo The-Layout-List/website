@@ -360,6 +360,13 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment": 5
+		},
+		{
+			"user": "el3ctrq",
+			"link": "https://youtu.be/lUtpTc_jq8g",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false
 		}
 	]
 }
