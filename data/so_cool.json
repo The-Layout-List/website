@@ -1760,6 +1760,13 @@
 			"percent": 100,
 			"hz": 300,
 			"enjoyment": 7
+		},
+		{
+			"user": "mrhopegd",
+			"link": "https://www.youtube.com/watch?v=VmTh-BcAUP8",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 9
 		}
 	]
 }
