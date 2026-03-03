@@ -82,6 +82,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "Murshark",
+			"link": "https://youtu.be/mMGU5z0JPnM",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 5
 		}
 	]
 }
