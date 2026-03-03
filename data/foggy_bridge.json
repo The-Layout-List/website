@@ -492,6 +492,13 @@
 			"hz": 60,
 			"enjoyment": 8,
 			"mobile": true
+		},
+		{
+			"user": "el3ctrq",
+			"link": "https://youtu.be/b_U4PWiFzXc",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false
 		}
 	]
 }
