@@ -1753,6 +1753,13 @@
 			"hz": 60,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "VNFR",
+			"link": "https://www.youtube.com/watch?v=fj5bXgshS18",
+			"percent": 100,
+			"hz": 300,
+			"enjoyment": 7
 		}
 	]
 }
