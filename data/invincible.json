@@ -141,6 +141,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "8xp3",
+			"link": "https://youtu.be/aGz6UDXQY3M?si=NLc7T6iJWdOjd4uq",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9
 		}
 	]
 }
