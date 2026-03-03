@@ -185,6 +185,13 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "DeltaJune",
+			"link": "https://youtu.be/DhZ0ofdHiPE",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9
 		}
 	]
 }
