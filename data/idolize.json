@@ -212,6 +212,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 9
+		},
+		{
+			"user": "iClone",
+			"link": "https://www.youtube.com/watch?v=B973S5XX0s4",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 8
 		}
 	]
 }
