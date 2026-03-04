@@ -153,6 +153,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 3
+		},
+		{
+			"user": "Rap1d/mus",
+			"link": "https://youtu.be/ZLHZH-MFA1U",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 6
 		}
 	]
 }
