@@ -239,6 +239,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "skulz",
+			"link": "https://youtu.be/z1ADmUb9ucM",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 0
 		}
 	]
 }
