@@ -243,6 +243,13 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment": 10
+		},
+		{
+			"user": "mrbridge1",
+			"link": "https://youtu.be/t8gh05oyd1M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false
 		}
 	]
 }
