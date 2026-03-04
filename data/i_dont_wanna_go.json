@@ -230,6 +230,14 @@
 			"hz": 60,
 			"enjoyment": 9,
 			"mobile": true
+		},
+		{
+			"user": "Spoolzy",
+			"link": "https://www.youtube.com/watch?v=m7Un4dV6_tY",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
