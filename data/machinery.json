@@ -177,6 +177,14 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "TheRandomGuy",
+			"link": "https://youtu.be/XyBGy3A9xBs?si=JCe7gPkOYy_C5okz",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 7,
+			"mobile": true
 		}
 	]
 }
