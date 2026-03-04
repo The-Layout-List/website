@@ -1491,6 +1491,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 8
+		},
+		{
+			"user": "TheRandomGuy",
+			"link": "https://youtube.com/watch?v=HXDW8UpSCQY&si=t1sP29KbmHi9xgB7",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 9
 		}
 	]
 }
