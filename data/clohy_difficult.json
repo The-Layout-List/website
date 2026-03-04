@@ -1,7 +1,9 @@
 {
 	"id": 133340179,
 	"name": "clohy difficult",
-	"creators": ["clohy"],
+	"creators": [
+		"clohy"
+	],
 	"verifier": "Hydraniac",
 	"verification": "https://youtu.be/ZkczxAJ3PdY?si=g94GNqMmHSLO0s_4",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 3,
 	"song": "xKore - Die Bitch!",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "dunix",
+			"link": "https://youtu.be/dFz2w-o-k1Y?si=uh650B-mgA0u_A61",
+			"percent": 100,
+			"hz": 144,
+			"mobile": false,
+			"enjoyment": 7
+		}
+	]
 }
