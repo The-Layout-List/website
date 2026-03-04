@@ -480,6 +480,13 @@
 			"percent": 100,
 			"hz": 120,
 			"enjoyment": 6
+		},
+		{
+			"user": "wesleylol",
+			"link": "https://www.youtube.com/watch?v=zfaOSzYVed4",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8
 		}
 	]
 }
