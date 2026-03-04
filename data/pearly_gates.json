@@ -633,6 +633,13 @@
 			"hz": 90,
 			"enjoyment": 8,
 			"mobile": true
+		},
+		{
+			"user": "CrimsonBlue",
+			"link": "https://youtu.be/oX6mZzgjxEc",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 6
 		}
 	]
 }
