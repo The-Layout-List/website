@@ -11,5 +11,13 @@
 	"difficulty": 8,
 	"song": "Creo - Crazy",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "Zyxo",
+			"link": "https://youtu.be/DDadiwEml6k",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 0
+		}
+	]
 }
