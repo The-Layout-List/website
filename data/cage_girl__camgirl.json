@@ -49,6 +49,14 @@
 			"hz": 144,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "xvelocityy",
+			"link": "https://youtu.be/njVlAm6Or84",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
