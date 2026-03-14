@@ -11,6 +11,14 @@
 	"difficulty": 12,
 	"song": "TJ.hangneil - Apollo",
 	"songLink": "https://drive.google.com/file/d/16_gMs5rkmj36_DV-UmAhHHAFZ9XqC2pN/view?usp=drive_link",
-	"records": [],
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://youtu.be/xABAyiqhjuI?si=q_NkEc-EJv7nlDM_",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
+		}
+	],
 	"enjoyment": 9
 }
