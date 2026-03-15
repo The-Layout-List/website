@@ -81,7 +81,7 @@ export function embed(video) {
     if (video.includes('twitch.tv/videos')) {
         const vod = getTwitchVodFromUrl(video);
         const parent = window.location.hostname;
-        if (vod) return `https://player.twitch.tv/?video=${vod}&parent=${parent}`;
+        if (vod) return `https://player.twitch.tv/?video=${vod}&parent=${parent}&muted=true&autoplay=false`;
     }
 
     // Default: YouTube
