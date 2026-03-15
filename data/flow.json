@@ -420,6 +420,13 @@
 			"hz": 90,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "lingonax",
+			"link": "https://youtu.be/QqFNRF8qDKo?si=385uLanyDbn1BBzX",
+			"percent": 100,
+			"hz": 144,
+			"mobile": false
 		}
 	]
 }
