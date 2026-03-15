@@ -75,13 +75,13 @@ export function embed(video) {
     if (video.includes('clips.twitch.tv')) {
         const clip = getTwitchClipFromUrl(video);
         const parent = window.location.hostname;
-        if (clip) return `https://clips.twitch.tv/embed?clip=${clip}&parent=${parent}`;
+        if (clip) return `https://clips.twitch.tv/embed?clip=${clip}&parent=${parent}&autoplay=false`;
     }
 
     if (video.includes('twitch.tv/videos')) {
         const vod = getTwitchVodFromUrl(video);
         const parent = window.location.hostname;
-        if (vod) return `https://player.twitch.tv/?video=${vod}&parent=${parent}&muted=true&autoplay=false`;
+        if (vod) return `https://player.twitch.tv/?video=${vod}&parent=${parent}&autoplay=false`;
     }
 
     // Default: YouTube
