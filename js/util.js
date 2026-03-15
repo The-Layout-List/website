@@ -69,7 +69,7 @@ export function getTwitchVodFromUrl(url) {
 export function embed(video) {
     if (video.includes('medal.tv')) {
         const id = getMedalTvIdFromUrl(video);
-        if (id) return `https://medal.tv/clip/${id}/autoembed`;
+        if (id) return `https://medal.tv/clip/${id}/autoembed?autoplay=0&muted=1&loop=0`;
     }
 
     if (video.includes('clips.twitch.tv')) {
