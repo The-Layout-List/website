@@ -50,12 +50,45 @@ export function getYoutubeIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
-// Creates an embed for the YouTube video
+// Gets the Medal.tv clip ID from the URL
+export function getMedalTvIdFromUrl(url) {
+    return url.match(/medal\.tv\/games\/[^/]+\/clips\/([^/?]+)/)?.[1] ?? '';
+}
+
+// Gets the Twitch clip slug from the URL
+export function getTwitchClipFromUrl(url) {
+    return url.match(/clips\.twitch\.tv\/([^/?]+)/)?.[1] ?? '';
+}
+
+// Gets the Twitch VOD ID from the URL
+export function getTwitchVodFromUrl(url) {
+    return url.match(/twitch\.tv\/videos\/(\d+)/)?.[1] ?? '';
+}
+
+// Creates an embed URL for the video (supports YouTube, Twitch, and Medal.tv)
 export function embed(video) {
+    if (video.includes('medal.tv')) {
+        const id = getMedalTvIdFromUrl(video);
+        if (id) return `https://medal.tv/clip/${id}/autoembed`;
+    }
+
+    if (video.includes('clips.twitch.tv')) {
+        const clip = getTwitchClipFromUrl(video);
+        const parent = window.location.hostname;
+        if (clip) return `https://clips.twitch.tv/embed?clip=${clip}&parent=${parent}`;
+    }
+
+    if (video.includes('twitch.tv/videos')) {
+        const vod = getTwitchVodFromUrl(video);
+        const parent = window.location.hostname;
+        if (vod) return `https://player.twitch.tv/?video=${vod}&parent=${parent}`;
+    }
+
+    // Default: YouTube
     return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
 }
 
-// Gets the thumbnail of the YoutTube video to display with the embed
+// Gets the thumbnail of the YouTube video to display with the embed
 export function getThumbnailFromId(id) {
     return `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
 }
