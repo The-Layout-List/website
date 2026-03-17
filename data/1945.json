@@ -1,7 +1,9 @@
 {
 	"id": 128857732,
 	"name": "1945",
-	"creators": ["EdenGardenia"],
+	"creators": [
+		"EdenGardenia"
+	],
 	"verifier": "EdenGardenia",
 	"verification": "https://www.youtube.com/watch?v=OTleg0aS7N4",
 	"percentToQualify": 73,
@@ -10,5 +12,13 @@
 	"song": "5 seconds before the explosion - your arms are my cocoon",
 	"songLink": "https://drive.google.com/file/d/1YrZ6s03Ptp9yC1bYdDeJB70oJYKqzQ86/view?usp=drive_link",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://youtu.be/Ywjo9W5DwDA?si=umTEdcf0Ov9BWU2C",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 7
+		}
+	]
 }
