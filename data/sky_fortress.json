@@ -1,7 +1,18 @@
 {
 	"id": 133163748,
 	"name": "Sky Fortress",
-	"creators": ["Asteria.","sylvale","jackyy","Bluestone","Tanginess","diddy","Infinera","zodycoder","enexyl","Hydraniac"],
+	"creators": [
+		"Asteria.",
+		"sylvale",
+		"jackyy",
+		"Sapph",
+		"Tanginess",
+		"diddy",
+		"Infinera",
+		"zodycoder",
+		"enexyl",
+		"Hydraniac"
+	],
 	"verifier": "Acacia",
 	"verification": "https://www.youtube.com/watch?v=zjMlk4qFuUU",
 	"percentToQualify": 59,
