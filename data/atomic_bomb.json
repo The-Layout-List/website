@@ -47,6 +47,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 6
+		},
+		{
+			"user": "briskrain",
+			"link": "https://www.youtube.com/watch?v=Wi8_f3fCCEA",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 9
 		}
 	]
 }
