@@ -1402,5 +1402,14 @@
 		"from_rank": null,
 		"above": "ghoulish_night",
 		"below": "cursed_circles_lmao"
+	},
+	{
+		"date": 1773877460,
+		"action": "placed",
+		"name": "opekomon_zahasry",
+		"to_rank": 363,
+		"from_rank": null,
+		"above": "nathan_park",
+		"below": "fishmart_trademark"
 	}
 ]
