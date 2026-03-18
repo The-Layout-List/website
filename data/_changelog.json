@@ -1393,5 +1393,14 @@
 		"from_rank": null,
 		"above": "fiberglass",
 		"below": "dying_star"
+	},
+	{
+		"date": 1773877394,
+		"action": "placed",
+		"name": "skyquaky_never_clear",
+		"to_rank": 420,
+		"from_rank": null,
+		"above": "ghoulish_night",
+		"below": "cursed_circles_lmao"
 	}
 ]
