@@ -1438,5 +1438,14 @@
 		"from_rank": null,
 		"above": "my_own_enemy",
 		"below": "unnamed_sphere_level"
+	},
+	{
+		"date": 1773877876,
+		"action": "placed",
+		"name": "quaoar",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "loud_clubstep",
+		"below": "iter_theoria"
 	}
 ]
