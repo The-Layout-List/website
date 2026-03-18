@@ -1420,5 +1420,14 @@
 		"from_rank": null,
 		"above": "waveroad",
 		"below": "peak_adrenaline"
+	},
+	{
+		"date": 1773877630,
+		"action": "placed",
+		"name": "desolate_warrior",
+		"to_rank": 296,
+		"from_rank": null,
+		"above": "tripping_weird",
+		"below": "tw3rking_fish_mkii"
 	}
 ]
