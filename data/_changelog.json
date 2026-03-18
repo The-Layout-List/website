@@ -1411,5 +1411,14 @@
 		"from_rank": null,
 		"above": "nathan_park",
 		"below": "fishmart_trademark"
+	},
+	{
+		"date": 1773877567,
+		"action": "placed",
+		"name": "up_in_ma_jam",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": "waveroad",
+		"below": "peak_adrenaline"
 	}
 ]
