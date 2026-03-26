@@ -269,6 +269,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 1
+		},
+		{
+			"user": "evil++!",
+			"link": "https://youtu.be/hV4OPhy5Dmo",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
