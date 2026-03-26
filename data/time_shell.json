@@ -534,6 +534,13 @@
 			"percent": 100,
 			"hz": 400,
 			"mobile": false
+		},
+		{
+			"user": "Vvivid",
+			"link": "https://www.youtube.com/watch?v=H5DJIfYlLwU",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false
 		}
 	]
 }
