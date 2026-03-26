@@ -168,6 +168,13 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "briskrain",
+			"link": "https://youtu.be/uwZduE-tvYs",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 5
 		}
 	]
 }
