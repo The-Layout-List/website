@@ -111,6 +111,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
+		},
+		{
+			"user": "crystl",
+			"link": "https://www.youtube.com/watch?v=Zjjz1DKSC4Q",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
 		}
 	]
 }
