@@ -148,6 +148,14 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 9
+		},
+		{
+			"user": "tinkle",
+			"link": "https://youtu.be/t11sCwg5zFg?si=m_cwpH-5v7y5JSO6",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 9
 		}
 	]
 }
