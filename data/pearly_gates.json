@@ -675,6 +675,13 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": false
+		},
+		{
+			"user": "Pickleation",
+			"link": "https://youtu.be/aFeEUztZTa8",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 4
 		}
 	]
 }
