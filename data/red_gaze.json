@@ -1,7 +1,9 @@
 {
 	"id": 112352816,
 	"name": "Red Gaze",
-	"creators": ["QwidziT"],
+	"creators": [
+		"QwidziT"
+	],
 	"verifier": "QwidziT",
 	"verification": "https://youtu.be/q74lSfmISPg?si=_X0hh8vLLg1qUgO4",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 3,
 	"song": "Creo - Red Haze",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/qnXornGLJiU",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
+		}
+	]
 }
