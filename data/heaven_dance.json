@@ -19,6 +19,13 @@
 			"hz": 60,
 			"enjoyment": 5,
 			"mobile": true
+		},
+		{
+			"user": "DeleteNine",
+			"link": "https://youtu.be/qnXornGLJiU?si=qvDUf3PrKN2m8hHu",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 2
 		}
 	]
 }
