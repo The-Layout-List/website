@@ -661,6 +661,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": false
+		},
+		{
+			"user": "ScandinavianGames",
+			"link": "https://www.youtube.com/watch?v=sHztkh9fuKU",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 9
 		}
 	]
 }
