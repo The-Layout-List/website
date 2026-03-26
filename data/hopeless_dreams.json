@@ -100,6 +100,14 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "xvelocityy",
+			"link": "https://www.youtube.com/watch?v=DElGUvZPxZU",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
