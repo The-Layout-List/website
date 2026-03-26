@@ -1791,6 +1791,13 @@
 			"hz": 60,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "Vvivid",
+			"link": "https://www.youtube.com/watch?v=oC7nlG8Z1n4",
+			"percent": 100,
+			"hz": 1920,
+			"mobile": false
 		}
 	]
 }
