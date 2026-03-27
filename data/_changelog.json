@@ -1456,5 +1456,14 @@
 		"from_rank": null,
 		"above": "tormenta",
 		"below": "mindless_layout"
+	},
+	{
+		"date": 1774649292,
+		"action": "placed",
+		"name": "blast_furnace",
+		"to_rank": 363,
+		"from_rank": null,
+		"above": "fishmart_trademark",
+		"below": "what_you_love_morsey"
 	}
 ]
