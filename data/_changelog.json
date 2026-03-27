@@ -1483,5 +1483,14 @@
 		"from_rank": null,
 		"above": "manslaughter",
 		"below": "distant_stars"
+	},
+	{
+		"date": 1774649701,
+		"action": "placed",
+		"name": "valentine",
+		"to_rank": 139,
+		"from_rank": null,
+		"above": "heaven_dance",
+		"below": "disease"
 	}
 ]
