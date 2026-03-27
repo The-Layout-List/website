@@ -1492,5 +1492,14 @@
 		"from_rank": null,
 		"above": "heaven_dance",
 		"below": "disease"
+	},
+	{
+		"date": 1774649916,
+		"action": "placed",
+		"name": "doller_menu_too",
+		"to_rank": 53,
+		"from_rank": null,
+		"above": "loud_clubstep",
+		"below": "quaoar"
 	}
 ]
