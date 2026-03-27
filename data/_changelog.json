@@ -1474,5 +1474,14 @@
 		"from_rank": null,
 		"above": "do_not_fall_asleep",
 		"below": "atosucksatbuilding"
+	},
+	{
+		"date": 1774649565,
+		"action": "placed",
+		"name": "unslept",
+		"to_rank": 186,
+		"from_rank": null,
+		"above": "manslaughter",
+		"below": "distant_stars"
 	}
 ]
