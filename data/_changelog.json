@@ -1501,5 +1501,14 @@
 		"from_rank": null,
 		"above": "loud_clubstep",
 		"below": "quaoar"
+	},
+	{
+		"date": 1774650191,
+		"action": "placed",
+		"name": "sugarcoat",
+		"to_rank": 42,
+		"from_rank": null,
+		"above": "tails_doll_007",
+		"below": "it_means_everything"
 	}
 ]
