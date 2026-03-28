@@ -1,8 +1,10 @@
 {
 	"id": 125474493,
 	"name": "Sugarcoat",
-	"creators": ["nootfluke"],
-	"verifier": "nootfluke",
+	"creators": [
+		"nootfluke"
+	],
+	"verifier": "jet",
 	"verification": "https://www.youtube.com/watch?v=EZwrcNRhPqA",
 	"percentToQualify": 57,
 	"password": "Free to copy",
