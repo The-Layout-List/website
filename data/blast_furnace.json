@@ -1,9 +1,11 @@
 {
 	"id": 136132046,
 	"name": "Blast Furnace",
-	"creators": ["Salukis"],
+	"creators": [
+		"Salukis"
+	],
 	"verifier": "Salukis",
-	"verification": "https://youtu.be/uKpWT7mlU84",
+	"verification": "https://youtu.be/zPSczy-A1yE?si=rNI0D33Qcpkir0kb",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 2,
