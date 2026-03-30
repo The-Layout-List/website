@@ -10,5 +10,14 @@
 	"password": "Free to copy",
 	"difficulty": 2,
 	"song": "Versus Me - Terrified",
-	"records": []
+	"records": [
+		{
+			"user": "xvelocityy",
+			"link": "https://youtu.be/M2acYoTSbLg?si=y44mxCItLIg-5Imr",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
+		}
+	]
 }
