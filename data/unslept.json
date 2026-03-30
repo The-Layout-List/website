@@ -14,6 +14,13 @@
 	"enjoyment": 10,
 	"records": [
 		{
+			"user": "EdenGardenia",
+			"link": "https://youtu.be/mrAXkKmL-ow?si=s7W_axB3MoucX0U4",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		},
+		{
 			"user": "fusemax",
 			"link": "https://www.youtube.com/watch?v=BRADBwY32yo",
 			"percent": 100,
@@ -44,13 +51,6 @@
 		{
 			"user": "GenesiSuperNova",
 			"link": "https://medal.tv/games/geometry-dash/clips/mn7wOJqM21dEXqBAX?invite=cr-MSxncXAsNDA0MzczNjE1",
-			"percent": 100,
-			"hz": 240,
-			"enjoyment": 10
-		},
-		{
-			"user": "EdenGardenia",
-			"link": "https://youtu.be/mrAXkKmL-ow?si=s7W_axB3MoucX0U4",
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
