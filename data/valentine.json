@@ -1,7 +1,10 @@
 {
 	"id": 136257172,
 	"name": "valentine",
-	"creators": ["tinkle","Retakl"],
+	"creators": [
+		"tinkle",
+		"Retakl"
+	],
 	"verifier": "tinkle",
 	"verification": "https://youtu.be/_frTe228DVo?si=gi0kOBfZ2c2QwaJc",
 	"percentToQualify": 100,
@@ -9,5 +12,13 @@
 	"difficulty": 4,
 	"song": "Dormir - Une mage blanche",
 	"songLink": "https://drive.google.com/file/d/1BXzGVPOepB6ETfsA9DIkhUZYjWWawQge/view?usp=sharing",
-	"records": []
+	"records": [
+		{
+			"user": "Retakl",
+			"link": "https://youtu.be/jO8aDjuYmSM?si=j2cBglvkRgO78djJ",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 10
+		}
+	]
 }
