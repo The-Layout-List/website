@@ -204,6 +204,14 @@
 			"percent": 100,
 			"hz": 400,
 			"mobile": false
+		},
+		{
+			"user": "Realkid7",
+			"link": "https://youtu.be/K5FUsDjxj-8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
