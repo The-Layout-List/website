@@ -200,6 +200,14 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 1
+		},
+		{
+			"user": "pickleation",
+			"link": "https://www.youtube.com/watch?v=29n2y0bNuOU",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
