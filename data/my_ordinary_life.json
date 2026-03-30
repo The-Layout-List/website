@@ -480,6 +480,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "luminousgt0",
+			"link": "https://www.youtube.com/watch?v=HacWv9wXhGs",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false
 		}
 	]
 }
