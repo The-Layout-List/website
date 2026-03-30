@@ -1,7 +1,9 @@
 {
 	"id": 136483061,
 	"name": "unslept",
-	"creators": ["Hydraniac"],
+	"creators": [
+		"Hydraniac"
+	],
 	"verifier": "Interive",
 	"verification": "https://youtu.be/pxh7j3KFsj4?si=xOflNYiNk0nPVLur",
 	"percentToQualify": 100,
@@ -10,5 +12,13 @@
 	"song": "Miraidempa - Unslept",
 	"songLink": "https://drive.google.com/file/d/16Js5VBt5ziYsjNDQN_6CMLEsnI10UB1x/view?usp=sharing",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "fusemax",
+			"link": "https://www.youtube.com/watch?v=BRADBwY32yo",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		}
+	]
 }
