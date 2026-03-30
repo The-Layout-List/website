@@ -12,5 +12,13 @@
 	"song": "winters - sugarcoat.uk",
 	"songLink": "https://drive.google.com/file/d/1bdkMl_-u5DHNvqP7awgHShXxTTQYwZoS/view?usp=sharing",
 	"enjoyment": 7,
-	"records": []
+	"records": [
+		{
+			"user": "cjsoldan",
+			"link": "https://www.youtube.com/watch?v=VnnbmbXTC-0",
+			"percent": 100,
+			"hz": 250,
+			"enjoyment": 5
+		}
+	]
 }
