@@ -33,6 +33,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 9
+		},
+		{
+			"user": "gam",
+			"link": "https://youtu.be/KopBJZsK52A",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 8
 		}
 	]
 }
