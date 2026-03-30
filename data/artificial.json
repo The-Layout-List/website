@@ -1519,6 +1519,14 @@
 			"percent": 100,
 			"hz": 1920,
 			"mobile": false
+		},
+		{
+			"user": "Henrydappedup",
+			"link": "https://youtu.be/VXWZOG6g244?si=aLCisaUqzDUNtZOz",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true,
+			"enjoyment": 8
 		}
 	]
 }
