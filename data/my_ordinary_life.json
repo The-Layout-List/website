@@ -487,6 +487,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "Geometry jack 3.0",
+			"link": "https://youtu.be/dmbW70Dd3wg?si=gq4aZusrezkeu5bb",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 4
 		}
 	]
 }
