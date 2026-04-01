@@ -128,6 +128,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "Marshmallo",
+			"link": "https://youtu.be/1w2-UtvBb8A?si=xPnBmGkBJIEluSVu",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 8
 		}
 	]
 }
