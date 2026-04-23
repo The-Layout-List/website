@@ -1541,6 +1541,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": false
+		},
+		{
+			"user": "Nikkye",
+			"link": "https://youtu.be/OVkG5AXOF18?si=xckMlj6DzUvZRQPY",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 6
 		}
 	]
 }
