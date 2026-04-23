@@ -479,6 +479,14 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 8
+		},
+		{
+			"user": "sans_hanitizer",
+			"link": "https://youtu.be/bqiaKC9fA1A",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
