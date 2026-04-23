@@ -952,6 +952,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "player1",
+			"link": "https://www.youtube.com/watch?v=pLy-7VR00i4",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false
 		}
 	]
 }
