@@ -66,6 +66,14 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "Korbir",
+			"link": "https://youtu.be/jcegGqHpj_s?si=b2Okjf_seJAFxj3_",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
 		}
 	]
 }
