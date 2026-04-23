@@ -258,6 +258,14 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "fieldfun45",
+			"link": "https://www.youtube.com/watch?v=AmvYLkxu69A",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false,
+			"enjoyment": 10
 		}
 	]
 }
