@@ -1555,5 +1555,14 @@
 		"from_rank": null,
 		"above": "evil",
 		"below": "stains"
+	},
+	{
+		"date": 1777683242,
+		"action": "placed",
+		"name": "eroica",
+		"to_rank": 62,
+		"from_rank": null,
+		"above": "hardcore",
+		"below": "dreamless_wanderer"
 	}
 ]
