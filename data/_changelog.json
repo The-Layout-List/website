@@ -1546,5 +1546,14 @@
 		"from_rank": null,
 		"above": "just_for_the_drop",
 		"below": "superquackmeworld"
+	},
+	{
+		"date": 1777683016,
+		"action": "placed",
+		"name": "glitter",
+		"to_rank": 128,
+		"from_rank": null,
+		"above": "evil",
+		"below": "stains"
 	}
 ]
