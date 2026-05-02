@@ -1519,5 +1519,14 @@
 		"from_rank": null,
 		"above": "i_already_died",
 		"below": "take_a_hike"
+	},
+	{
+		"date": 1777682509,
+		"action": "placed",
+		"name": "blades_of_chaos",
+		"to_rank": 356,
+		"from_rank": null,
+		"above": "layout_ix",
+		"below": "cha_cha_cha"
 	}
 ]
