@@ -1510,5 +1510,14 @@
 		"from_rank": null,
 		"above": "tails_doll_007",
 		"below": "it_means_everything"
+	},
+	{
+		"date": 1777682409,
+		"action": "placed",
+		"name": "salukis_never_clear",
+		"to_rank": 386,
+		"from_rank": null,
+		"above": "i_already_died",
+		"below": "take_a_hike"
 	}
 ]
