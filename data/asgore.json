@@ -378,6 +378,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "ShiveringStars0",
+			"link": "https://www.youtube.com/watch?v=joSqHyhBzF0",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8
 		}
 	]
 }
