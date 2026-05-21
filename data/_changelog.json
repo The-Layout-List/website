@@ -1600,5 +1600,14 @@
 		"from_rank": null,
 		"above": "m87",
 		"below": "euphoria_alen"
+	},
+	{
+		"date": 1779407041,
+		"action": "lowered",
+		"name": "doller_appetizer",
+		"to_rank": 58,
+		"from_rank": 57,
+		"above": "loud_clubstep",
+		"below": "doller_appetizer"
 	}
 ]
