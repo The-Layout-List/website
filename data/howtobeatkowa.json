@@ -11,5 +11,12 @@
 	"difficulty": 6,
 	"song": "Himawari - Fragile",
 	"songLink": "https://cdn.discordapp.com/ephemeral-attachments/1320592923561164871/1503463863452962897/758448.mp3?ex=6a10a056&is=6a0f4ed6&hm=1f7edb8a9dcec40f73b6d16a5aa4b6032caa86ccb2c3a768f51e6b8d5b6b2fbb&",
-	"records": []
+	"records": [
+		{
+			"user": "Squidkid72",
+			"link": "https://www.youtube.com/watch?v=O_YM7Uz6JIY",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
