@@ -601,6 +601,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 4
+		},
+		{
+			"user": "Cronosplayz",
+			"link": "https://www.youtube.com/watch?v=bRE2mKfBno0",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 10
 		}
 	]
 }
