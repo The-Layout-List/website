@@ -1591,5 +1591,14 @@
 		"from_rank": null,
 		"above": "paninireta",
 		"below": "eye_candy"
+	},
+	{
+		"date": 1779406960,
+		"action": "placed",
+		"name": "the_gods_willing",
+		"to_rank": 111,
+		"from_rank": null,
+		"above": "m87",
+		"below": "euphoria_alen"
 	}
 ]
