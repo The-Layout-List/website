@@ -557,6 +557,14 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "kth11211",
+			"link": "https://www.youtube.com/watch?v=0LlA2yj3Zkk",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 5,
+			"mobile": true
 		}
 	]
 }
