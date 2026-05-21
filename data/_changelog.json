@@ -1618,5 +1618,14 @@
 		"from_rank": 57,
 		"above": "dirge",
 		"below": "loud_clubstep"
+	},
+	{
+		"date": 1779407237,
+		"action": "lowered",
+		"name": "howtobeatkowa",
+		"to_rank": 73,
+		"from_rank": 70,
+		"above": "so_based",
+		"below": "paninireta"
 	}
 ]
