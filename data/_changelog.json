@@ -1582,5 +1582,14 @@
 		"from_rank": null,
 		"above": "dirge",
 		"below": "cigarette_ahegao"
+	},
+	{
+		"date": 1779406804,
+		"action": "placed",
+		"name": "howtobeatkowa",
+		"to_rank": 70,
+		"from_rank": null,
+		"above": "paninireta",
+		"below": "eye_candy"
 	}
 ]
