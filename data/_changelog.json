@@ -1654,5 +1654,14 @@
 		"from_rank": null,
 		"above": "peak_adrenaline",
 		"below": "snowy_summit"
+	},
+	{
+		"date": 1779407906,
+		"action": "raised",
+		"name": "ablaze_downfall",
+		"to_rank": 24,
+		"from_rank": 35,
+		"above": "rhyotic",
+		"below": "phut_the_shuck_up"
 	}
 ]
