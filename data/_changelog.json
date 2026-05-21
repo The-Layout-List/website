@@ -1564,5 +1564,14 @@
 		"from_rank": null,
 		"above": "hardcore",
 		"below": "dreamless_wanderer"
+	},
+	{
+		"date": 1779406463,
+		"action": "placed",
+		"name": "chivalry",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "max",
+		"below": "war"
 	}
 ]
