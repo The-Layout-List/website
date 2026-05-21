@@ -448,6 +448,14 @@
 			"percent": 100,
 			"hz": 120,
 			"enjoyment": 9
+		},
+		{
+			"user": "cyrrycoolz",
+			"link": "https://youtu.be/wsZJAKtDy9I?si=aTGOwU45eCYc3dT9",
+			"percent": 100,
+			"hz": 480,
+			"mobile": false,
+			"enjoyment": 3
 		}
 	]
 }
