@@ -427,6 +427,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 8
+		},
+		{
+			"user": "claire",
+			"link": "https://www.youtube.com/watch?v=vCc7pdcmZdo",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
 		}
 	]
 }
