@@ -1573,5 +1573,14 @@
 		"from_rank": null,
 		"above": "max",
 		"below": "war"
+	},
+	{
+		"date": 1779406701,
+		"action": "placed",
+		"name": "doller_appetizer",
+		"to_rank": 57,
+		"from_rank": null,
+		"above": "dirge",
+		"below": "cigarette_ahegao"
 	}
 ]
