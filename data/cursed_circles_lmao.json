@@ -148,6 +148,12 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 10
+		},
+		{
+			"user": "Geometry jack 3.0",
+			"link": "https://youtu.be/ivfARqKJk3E",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
