@@ -1837,6 +1837,14 @@
 			"hz": 120,
 			"enjoyment": 8,
 			"mobile": true
+		},
+		{
+			"user": "Aazerty0_0",
+			"link": "https://www.youtube.com/watch?v=xH1VzAWw04Q",
+			"percent": 100,
+			"hz": 180,
+			"mobile": false,
+			"enjoyment": 10
 		}
 	]
 }
