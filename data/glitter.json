@@ -1,12 +1,22 @@
 {
 	"id": 136950880,
 	"name": "Glitter",
-	"creators": ["dudemanbro"],
+	"creators": [
+		"dudemanbro"
+	],
 	"verifier": "dudemanbro",
 	"verification": "https://www.youtube.com/watch?v=Uds1Nghx9Zs",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 4,
 	"song": "lexycat - GLITTER",
-	"records": []
+	"records": [
+		{
+			"user": "evil++!",
+			"link": "https://youtu.be/Ipx128Y3XIQ",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		}
+	]
 }
