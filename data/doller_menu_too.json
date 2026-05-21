@@ -15,5 +15,13 @@
 	"song": "get lit - ANDRS",
 	"songLink": "https://drive.google.com/file/d/1WdAZriKHZjbTNbWzj4KDd_hoIh5MWiAR/view?usp=sharing",
 	"enjoyment": 7,
-	"records": []
+	"records": [
+		{
+			"user": "gam",
+			"link": "https://www.youtube.com/watch?v=49sLPY6swkE",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 9
+		}
+	]
 }
