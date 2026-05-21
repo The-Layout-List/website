@@ -1636,5 +1636,14 @@
 		"from_rank": 111,
 		"above": "poster",
 		"below": "crystallized"
+	},
+	{
+		"date": 1779407514,
+		"action": "placed",
+		"name": "dual_phase_cc",
+		"to_rank": 358,
+		"from_rank": null,
+		"above": "snowy_summit",
+		"below": "astral_badass"
 	}
 ]
