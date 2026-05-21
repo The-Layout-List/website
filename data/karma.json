@@ -390,6 +390,13 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment": 8
+		},
+		{
+			"user": "SigmA",
+			"link": "https://www.youtube.com/watch?v=SAGkDdgwddI",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9
 		}
 	]
 }
