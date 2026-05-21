@@ -1609,5 +1609,14 @@
 		"from_rank": 57,
 		"above": "loud_clubstep",
 		"below": "doller_appetizer"
+	},
+	{
+		"date": 1779407152,
+		"action": "lowered",
+		"name": "doller_appetizer",
+		"to_rank": 59,
+		"from_rank": 57,
+		"above": "dirge",
+		"below": "loud_clubstep"
 	}
 ]
