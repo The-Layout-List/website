@@ -74,6 +74,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "nakeedxd",
+			"link": "https://www.youtube.com/watch?v=hcQxJ3scFvg",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 2
 		}
 	]
 }
