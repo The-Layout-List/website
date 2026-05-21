@@ -1645,5 +1645,14 @@
 		"from_rank": null,
 		"above": "snowy_summit",
 		"below": "astral_badass"
+	},
+	{
+		"date": 1779407636,
+		"action": "placed",
+		"name": "salukis_never_clear_poke_zach",
+		"to_rank": 361,
+		"from_rank": null,
+		"above": "peak_adrenaline",
+		"below": "snowy_summit"
 	}
 ]
