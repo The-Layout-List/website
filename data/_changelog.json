@@ -1708,5 +1708,14 @@
 		"from_rank": null,
 		"above": "up_in_ma_jam",
 		"below": "magart_thatch"
+	},
+	{
+		"date": 1779409074,
+		"action": "lowered",
+		"name": "wrongside_out",
+		"to_rank": 370,
+		"from_rank": 369,
+		"above": "blades_of_chaos",
+		"below": "wrongside_out"
 	}
 ]
