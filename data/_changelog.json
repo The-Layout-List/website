@@ -1663,5 +1663,14 @@
 		"from_rank": 35,
 		"above": "rhyotic",
 		"below": "phut_the_shuck_up"
+	},
+	{
+		"date": 1779408102,
+		"action": "placed",
+		"name": "phantom",
+		"to_rank": 20,
+		"from_rank": null,
+		"above": "absolute_zero",
+		"below": "wipe_me_down"
 	}
 ]
