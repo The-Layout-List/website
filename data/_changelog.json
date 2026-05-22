@@ -1672,5 +1672,14 @@
 		"from_rank": null,
 		"above": "absolute_zero",
 		"below": "wipe_me_down"
+	},
+	{
+		"date": 1779408212,
+		"action": "placed",
+		"name": "black_ice",
+		"to_rank": 19,
+		"from_rank": null,
+		"above": "phantom",
+		"below": "suffocation"
 	}
 ]
