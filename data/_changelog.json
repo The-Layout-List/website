@@ -1699,5 +1699,14 @@
 		"from_rank": null,
 		"above": "ghoulish_night",
 		"below": "skyquaky_never_clear"
+	},
+	{
+		"date": 1779408752,
+		"action": "placed",
+		"name": "cheat_codes",
+		"to_rank": 365,
+		"from_rank": null,
+		"above": "up_in_ma_jam",
+		"below": "magart_thatch"
 	}
 ]
