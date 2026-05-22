@@ -1717,5 +1717,14 @@
 		"from_rank": 369,
 		"above": "blades_of_chaos",
 		"below": "wrongside_out"
+	},
+	{
+		"date": 1779409140,
+		"action": "lowered",
+		"name": "wrongside_out",
+		"to_rank": 371,
+		"from_rank": 369,
+		"above": "waveroad",
+		"below": "blades_of_chaos"
 	}
 ]
