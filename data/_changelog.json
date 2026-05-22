@@ -1690,5 +1690,14 @@
 		"from_rank": null,
 		"above": "waveroad",
 		"below": "cha_cha_cha"
+	},
+	{
+		"date": 1779408557,
+		"action": "placed",
+		"name": "despondency",
+		"to_rank": 442,
+		"from_rank": null,
+		"above": "ghoulish_night",
+		"below": "skyquaky_never_clear"
 	}
 ]
