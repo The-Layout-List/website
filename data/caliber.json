@@ -553,6 +553,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "josikp",
+			"link": "https://www.youtube.com/watch?v=Is_cjzrLdzI",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10
 		}
 	]
 }
