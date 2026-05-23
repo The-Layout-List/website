@@ -1845,6 +1845,14 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "MJ",
+			"link": "https://www.youtube.com/watch?v=F8q6B07W0qE",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
 		}
 	]
 }
