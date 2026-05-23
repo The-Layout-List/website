@@ -161,6 +161,14 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 6
+		},
+		{
+			"user": "sllentgd",
+			"link": "https://youtu.be/eDtw5wusq1M?si=6cj0AGPqet3yJrGC",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true,
+			"enjoyment": 8
 		}
 	]
 }
