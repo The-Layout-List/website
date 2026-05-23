@@ -110,6 +110,14 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "evil++!",
+			"link": "https://www.youtube.com/watch?v=iLu-Gdl80NI",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
