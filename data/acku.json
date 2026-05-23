@@ -427,6 +427,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "josikp",
+			"link": "https://www.youtube.com/watch?v=EqW9QNRDeO0",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9
 		}
 	]
 }
