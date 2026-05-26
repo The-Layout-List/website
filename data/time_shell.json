@@ -573,6 +573,14 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 0
+		},
+		{
+			"user": "josikp",
+			"link": "https://youtu.be/26niyn4u-Xk",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false,
+			"enjoyment": 9
 		}
 	]
 }
