@@ -1,7 +1,15 @@
 {
 	"id": 139700079,
 	"name": "Chivalry",
-	"creators": ["Screendoe","Squidkid72","Asteria.","Hydraniac","Alen","fusemax","RayonoXx"],
+	"creators": [
+		"Screendoe",
+		"Squidkid72",
+		"Asteria.",
+		"Hydraniac",
+		"Alen",
+		"fusemax",
+		"RaynoXx"
+	],
 	"verifier": "sn0w",
 	"verification": "https://youtu.be/oFsYQ-DS0dw?si=M30ZkXibHINo-yeg",
 	"percentToQualify": 51,
