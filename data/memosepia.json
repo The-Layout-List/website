@@ -42,6 +42,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
+		},
+		{
+			"user": "YourLighy",
+			"link": "https://youtu.be/RDoCP2Xmxqg",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
