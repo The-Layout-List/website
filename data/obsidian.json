@@ -73,6 +73,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 4
+		},
+		{
+			"user": "ICENOVA",
+			"link": "https://youtu.be/5qOvcO1AU4k",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 6
 		}
 	],
 	"enjoyment": 10
