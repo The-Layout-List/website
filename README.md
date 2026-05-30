@@ -36,7 +36,7 @@ Can I submit multiple levels in one video?
 ## List Helpers:
 
 * Infinera
-* Skip
+* gam
 * sn0wiscold
 * tangi
 
