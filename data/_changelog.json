@@ -1735,5 +1735,14 @@
 		"from_rank": null,
 		"above": "blades_of_chaos",
 		"below": "up_in_ma_jam"
+	},
+	{
+		"date": 1780534627,
+		"action": "placed",
+		"name": "mole_into_sundays",
+		"to_rank": 255,
+		"from_rank": null,
+		"above": "lightmare",
+		"below": "medaldottvsucks"
 	}
 ]
