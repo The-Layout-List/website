@@ -12,5 +12,14 @@
 	"song": "Nightcore - Beethoven Virus",
 	"songLink": "https://drive.google.com/file/d/1CeaV3EbXFy4l2EoYVkoSv9CN8tYl9kaR/view?usp=drive_link",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
+		}
+	]
 }

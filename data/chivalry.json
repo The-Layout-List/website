@@ -17,5 +17,14 @@
 	"difficulty": 9,
 	"song": "DuoCore - Dignity",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 10
+		}
+	]
 }

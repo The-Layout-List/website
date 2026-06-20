@@ -1,7 +1,9 @@
 {
 	"id": 106116709,
 	"name": "The Gods Willing",
-	"creators": ["Math19"],
+	"creators": [
+		"Math19"
+	],
 	"verifier": "Screendoe",
 	"verification": "https://youtu.be/TdPKu-zy5bE",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 5,
 	"song": "Deo Volente - BoomKitty",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
+		}
+	]
 }

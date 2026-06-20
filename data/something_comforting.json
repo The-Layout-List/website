@@ -1,7 +1,9 @@
 {
 	"id": 137836598,
 	"name": "Something Comforting",
-	"creators": ["zCriox"],
+	"creators": [
+		"zCriox"
+	],
 	"verifier": "zCriox",
 	"verification": "https://www.youtube.com/watch?v=rvKlaVmNbes",
 	"percentToQualify": 100,
@@ -10,5 +12,14 @@
 	"song": "Porter Robinson - Something Comforting",
 	"songLink": "https://drive.google.com/file/d/1wtuawjWxHtQT5F1mFX1KMTVS80gLRW5u/view?usp=drive_link",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 9
+		}
+	]
 }

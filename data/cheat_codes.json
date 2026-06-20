@@ -1,12 +1,24 @@
 {
 	"id": 122524894,
 	"name": "Cheat Codes",
-	"creators": ["eli","alta"],
+	"creators": [
+		"eli",
+		"alta"
+	],
 	"verifier": "eli",
 	"verification": "https://youtu.be/S30uZo40jaQ",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 2,
 	"song": "Cheat Codesenjoyment: 9",
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 4
+		}
+	]
 }

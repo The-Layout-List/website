@@ -1,12 +1,23 @@
 {
 	"id": 137117191,
 	"name": "Salukis Never Clear",
-	"creators": ["Blysteryx"],
+	"creators": [
+		"Blysteryx"
+	],
 	"verifier": "Blysteryx",
 	"verification": "https://www.youtube.com/watch?v=Evhzx9GNEcI",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 2,
 	"song": "Vylet Pony - Constellation Cradle",
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
+		}
+	]
 }

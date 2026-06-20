@@ -1,7 +1,9 @@
 {
 	"id": 137118608,
 	"name": "SaLuKiS nEvEr ClEaR",
-	"creators": ["Poke Zach"],
+	"creators": [
+		"Poke Zach"
+	],
 	"verifier": "Poke Zach",
 	"verification": "https://youtu.be/E7MsQpSs-vQ?si=EC_tcmEndD9zAVK-",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 2,
 	"song": "F-777 - Sonic Blaster",
 	"enjoyment": 7,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
+		}
+	]
 }

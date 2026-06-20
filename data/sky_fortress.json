@@ -20,5 +20,14 @@
 	"difficulty": 7,
 	"song": "Waterflame - -Sky Fortress-",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/lGxWpDJ7L-M",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 3
+		}
+	]
 }
