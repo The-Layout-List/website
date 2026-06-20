@@ -121,6 +121,14 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 1
+		},
+		{
+			"user": "rednazfm",
+			"link": "https://www.youtube.com/watch?v=a5TQYn-tsBo",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
 		}
 	]
 }
