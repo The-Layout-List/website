@@ -548,6 +548,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": false
+		},
+		{
+			"user": "trexhun",
+			"link": "https://www.youtube.com/watch?v=UnWR6CfDswA",
+			"percent": 100,
+			"hz": 360,
+			"mobile": false
 		}
 	]
 }

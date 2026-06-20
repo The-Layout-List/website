@@ -270,6 +270,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "trexhun",
+			"link": "https://www.youtube.com/watch?v=UnWR6CfDswA",
+			"percent": 100,
+			"hz": 360,
+			"mobile": false
 		}
 	]
 }
