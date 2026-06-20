@@ -114,6 +114,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "CyrryCoolz",
+			"link": "https://youtu.be/t4THpaxFHxA?si=tQsGRA9LqvkmSy2N",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 9
 		}
 	]
 }
