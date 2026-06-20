@@ -532,6 +532,14 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "Goorfish",
+			"link": "https://youtu.be/qVQHIkQimDg?si=A4uKESbT8OMi8uU-",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 9,
+			"mobile": true
 		}
 	]
 }
