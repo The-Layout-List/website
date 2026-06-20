@@ -1579,6 +1579,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "MJ",
+			"link": "https://youtu.be/v41JduDN7sw?si=43HJu9vtFWqe6DhT",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
 		}
 	]
 }
