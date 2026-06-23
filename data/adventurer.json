@@ -56,6 +56,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "Screendoe",
+			"link": "https://youtu.be/j4lZNOjBcTc",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 1
 		}
 	]
 }
