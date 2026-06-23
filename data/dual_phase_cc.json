@@ -26,6 +26,13 @@
 			"hz": 60,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "lingonax",
+			"link": "https://youtu.be/RfbkHXfzf8M",
+			"percent": 100,
+			"hz": 48,
+			"enjoyment": 1
 		}
 	]
 }
