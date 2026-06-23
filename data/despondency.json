@@ -1,7 +1,9 @@
 {
 	"id": 136709304,
 	"name": "Despondency",
-	"creators": ["DeleteNine"],
+	"creators": [
+		"DeleteNine"
+	],
 	"verifier": "DeleteNine",
 	"verification": "https://youtu.be/OtfRr2kNjjQ",
 	"percentToQualify": 100,
@@ -9,5 +11,14 @@
 	"difficulty": 1,
 	"song": "Waterflame - Cove",
 	"enjoyment": 3,
-	"records": []
+	"records": [
+		{
+			"user": "blysteryx",
+			"link": "https://www.youtube.com/watch?v=i9-jcI01t50",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false,
+			"enjoyment": 7
+		}
+	]
 }
