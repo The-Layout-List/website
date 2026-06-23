@@ -101,6 +101,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "MrCrunchyWaffle",
+			"link": "https://www.youtube.com/watch?v=TAX4N-gyrH4",
+			"percent": 100,
+			"hz": 100,
+			"enjoyment": 6
 		}
 	]
 }
