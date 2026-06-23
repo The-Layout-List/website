@@ -1,7 +1,9 @@
 {
 	"id": 133939346,
 	"name": "Black Ice",
-	"creators": ["Pivit"],
+	"creators": [
+		"Pivit"
+	],
 	"verifier": "OreSpawnMaster3",
 	"verification": "https://www.youtube.com/watch?v=EcR5S0cPz2Y",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 8,
 	"song": "UNTITLED BEAT",
 	"enjoyment": 7,
-	"records": []
+	"records": [
+		{
+			"user": "nykolol",
+			"link": "https://youtu.be/aBla7qTZ-Do",
+			"percent": 100,
+			"hz": 660,
+			"enjoyment": 8
+		}
+	]
 }
