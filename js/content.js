@@ -564,7 +564,7 @@ export function averageEnjoyment(records) {
     if (isNaN(result) || result === null) {
         return "?";
     }
-    return [result, validRecordsCount];
+    return result;
 }
 
 export function fetchTierLength(list, difficulty) {
@@ -615,7 +615,7 @@ export function fetchHighestEnjoyment(list, difficulty) {
         }
 
         if (level.difficulty === difficulty) {
-            const enjoyment = averageEnjoyment(level.records)[0];
+            const enjoyment = averageEnjoyment(level.records);
             if (enjoyment > endEnjoyment) {
                 endEnjoyment = enjoyment;
                 maxLevel = level;
@@ -641,7 +641,7 @@ export function fetchLowestEnjoyment(list, difficulty) {
         }
 
         if (level.difficulty === difficulty) {
-            const enjoyment = averageEnjoyment(level.records)[0];
+            const enjoyment = averageEnjoyment(level.records);
             if (enjoyment < endEnjoyment) {
                 minLevel = level;
                 endEnjoyment = enjoyment;

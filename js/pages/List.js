@@ -152,11 +152,11 @@ export default {
             if (sortOption === 1) {
                 list = list.filter(({ item }) =>
                             item[2]?.id !== 0 &&
-                            averageEnjoyment(item[2]?.records)[0] !== "?"
+                            averageEnjoyment(item[2]?.records) !== "?"
                         )
                     .sort((a, b) => {
-                            const enjoymentA = averageEnjoyment(a.item[2].records)[0];
-                            const enjoymentB = averageEnjoyment(b.item[2].records)[0];
+                            const enjoymentA = averageEnjoyment(a.item[2].records);
+                            const enjoymentB = averageEnjoyment(b.item[2].records);
 
                             return enjoymentB - enjoymentA;
                         })
