@@ -1771,5 +1771,14 @@
 		"from_rank": null,
 		"above": "dirge",
 		"below": "loud_clubstep"
+	},
+	{
+		"date": 1782754007,
+		"action": "placed",
+		"name": "swarm_gp",
+		"to_rank": 6,
+		"from_rank": null,
+		"above": "1945",
+		"below": "to_you_at_the_end"
 	}
 ]
