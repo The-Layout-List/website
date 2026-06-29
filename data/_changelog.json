@@ -1762,5 +1762,14 @@
 		"from_rank": null,
 		"above": "raid",
 		"below": "the_gods_willing"
+	},
+	{
+		"date": 1782753529,
+		"action": "placed",
+		"name": "can_we_be_the_same",
+		"to_rank": 59,
+		"from_rank": null,
+		"above": "dirge",
+		"below": "loud_clubstep"
 	}
 ]
