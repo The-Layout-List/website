@@ -1753,5 +1753,14 @@
 		"from_rank": null,
 		"above": "maximum_energy",
 		"below": "tolerance"
+	},
+	{
+		"date": 1782752999,
+		"action": "placed",
+		"name": "i_love_fat_bxtches",
+		"to_rank": 126,
+		"from_rank": null,
+		"above": "raid",
+		"below": "the_gods_willing"
 	}
 ]
