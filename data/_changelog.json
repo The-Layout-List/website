@@ -1789,5 +1789,14 @@
 		"from_rank": 57,
 		"above": "so_based",
 		"below": "howtobeatkowa"
+	},
+	{
+		"date": 1782759684,
+		"action": "raised",
+		"name": "can_we_be_the_same",
+		"to_rank": 58,
+		"from_rank": 59,
+		"above": "loud_clubstep",
+		"below": "cigarette_ahegao"
 	}
 ]
