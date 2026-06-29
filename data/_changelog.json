@@ -1780,5 +1780,14 @@
 		"from_rank": null,
 		"above": "1945",
 		"below": "to_you_at_the_end"
+	},
+	{
+		"date": 1782754219,
+		"action": "lowered",
+		"name": "doller_menu_too",
+		"to_rank": 76,
+		"from_rank": 57,
+		"above": "so_based",
+		"below": "howtobeatkowa"
 	}
 ]
