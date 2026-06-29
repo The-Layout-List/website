@@ -1744,5 +1744,14 @@
 		"from_rank": null,
 		"above": "lightmare",
 		"below": "medaldottvsucks"
+	},
+	{
+		"date": 1782752668,
+		"action": "placed",
+		"name": "salukis_never_clear_xvelocityy",
+		"to_rank": 138,
+		"from_rank": null,
+		"above": "maximum_energy",
+		"below": "tolerance"
 	}
 ]
