@@ -177,6 +177,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "nykolol",
+			"link": "https://www.youtube.com/watch?v=w-WpWUpTxJY",
+			"percent": 100,
+			"hz": 660,
+			"enjoyment": 9
 		}
 	]
 }
