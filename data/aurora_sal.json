@@ -90,6 +90,13 @@
 			"hz": 60,
 			"enjoyment": 8,
 			"mobile": true
+		},
+		{
+			"user": "Nikkye",
+			"link": "https://www.youtube.com/watch?v=mHFuTWKQCSI",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
 		}
 	]
 }
