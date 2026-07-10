@@ -19,6 +19,13 @@
 			"hz": 60,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Lsoreno",
+			"link": "https://www.youtube.com/watch?v=HyMbQ7rK29k",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 9
 		}
 	]
 }
