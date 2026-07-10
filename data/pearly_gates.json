@@ -741,6 +741,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 9
+		},
+		{
+			"user": "Miljan",
+			"link": "https://www.youtube.com/watch?v=1ioaeOoV7CQ",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 2
 		}
 	]
 }
