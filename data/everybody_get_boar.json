@@ -238,6 +238,14 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "Scandi",
+			"link": "https://youtu.be/2Qes4mOXYEw?is=aBqpiRQ4JB7NPA-S",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
