@@ -1609,6 +1609,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 5
+		},
+		{
+			"user": "Korvenn",
+			"link": "https://youtu.be/bj-J-wrz3j0?si=q25202FnZX7Rrfk1",
+			"percent": 100,
+			"hz": 999,
+			"enjoyment": 10
 		}
 	]
 }
