@@ -1595,6 +1595,13 @@
 			"hz": 120,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "quantumBB15",
+			"link": "https://youtu.be/Ox3NRIRldsk?is=xkt5v3TVpvhbzYjy",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
