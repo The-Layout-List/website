@@ -363,6 +363,13 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": false
+		},
+		{
+			"user": "Korvenn",
+			"link": "https://youtu.be/L1qA0ezkZZc?si=o6nX5zucus0QczEL",
+			"percent": 100,
+			"hz": 999,
+			"enjoyment": 9
 		}
 	]
 }
