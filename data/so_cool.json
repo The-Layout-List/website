@@ -1875,6 +1875,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "LavenderWyvern",
+			"link": "https://www.youtube.com/watch?v=LBbC5ZUXVY8",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 6
 		}
 	]
 }
