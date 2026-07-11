@@ -263,6 +263,13 @@
 			"hz": 60,
 			"mobile": false,
 			"enjoyment": 4
+		},
+		{
+			"user": "Lsoreno",
+			"link": "https://youtu.be/OMlXGH3Z-lo",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 10
 		}
 	]
 }
