@@ -72,6 +72,13 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 0
+		},
+		{
+			"user": "tipsygrayson",
+			"link": "https://www.youtube.com/watch?v=gREsRaY5moQ",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 8
 		}
 	]
 }
