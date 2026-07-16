@@ -748,6 +748,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 2
+		},
+		{
+			"user": "Nikkye",
+			"link": "https://www.youtube.com/watch?v=ww905_ygDUk",
+			"percent": 100,
+			"hz": 18,
+			"enjoyment": 6
 		}
 	]
 }
