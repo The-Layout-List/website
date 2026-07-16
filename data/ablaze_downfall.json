@@ -114,6 +114,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "cjsoldan",
+			"link": "https://www.youtube.com/watch?v=6QSyjfEt0m4",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 4
 		}
 	]
 }
