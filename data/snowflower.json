@@ -616,6 +616,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 7
+		},
+		{
+			"user": "Korvenn",
+			"link": "https://www.youtube.com/watch?v=ZQVJpiN-3EY",
+			"percent": 100,
+			"hz": 999,
+			"enjoyment": 5
 		}
 	]
 }
