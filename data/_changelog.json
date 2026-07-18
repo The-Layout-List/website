@@ -1807,5 +1807,14 @@
 		"from_rank": null,
 		"above": "calm",
 		"below": "machinery"
+	},
+	{
+		"date": 1784384382,
+		"action": "placed",
+		"name": "blinded_by_the_fog",
+		"to_rank": 136,
+		"from_rank": null,
+		"above": "glitter",
+		"below": "pherese"
 	}
 ]
