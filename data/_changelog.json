@@ -1798,5 +1798,14 @@
 		"from_rank": 59,
 		"above": "loud_clubstep",
 		"below": "cigarette_ahegao"
+	},
+	{
+		"date": 1784383972,
+		"action": "placed",
+		"name": "john_level",
+		"to_rank": 469,
+		"from_rank": null,
+		"above": "calm",
+		"below": "machinery"
 	}
 ]
