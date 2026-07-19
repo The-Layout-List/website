@@ -1816,5 +1816,14 @@
 		"from_rank": null,
 		"above": "glitter",
 		"below": "pherese"
+	},
+	{
+		"date": 1784439378,
+		"action": "raised",
+		"name": "red_flag",
+		"to_rank": 4,
+		"from_rank": 7,
+		"above": "dying_star",
+		"below": "achelous"
 	}
 ]
