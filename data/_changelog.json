@@ -1825,5 +1825,14 @@
 		"from_rank": 7,
 		"above": "dying_star",
 		"below": "achelous"
+	},
+	{
+		"date": 1784440232,
+		"action": "placed",
+		"name": "dumpster",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "achelous",
+		"below": "apollo"
 	}
 ]
