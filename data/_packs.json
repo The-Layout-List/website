@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Salukis Never Clear Pack",
+		"difficulty": 3,
+		"levels": [
+			"salukis_never_clear_xvelocityy",
+			"salukis_never_clear_blysteryx",
+			"salukis_never_clear_poke_zach",
+			"salukis_never_clear"
+		]
+	},
+	{
 		"name": "Kreas Pack",
 		"difficulty": 2,
 		"levels": [
