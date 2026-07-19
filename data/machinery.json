@@ -200,6 +200,14 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Nianaoo",
+			"link": "https://www.youtube.com/watch?v=v8Sw6TvxJDo",
+			"percent": 100,
+			"hz": 90,
+			"enjoyment": 10,
+			"mobile": true
 		}
 	]
 }
