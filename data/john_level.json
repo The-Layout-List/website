@@ -1,7 +1,9 @@
 {
 	"id": 144031078,
 	"name": "John Level",
-	"creators": ["Poke Zach"],
+	"creators": [
+		"Poke Zach"
+	],
 	"verifier": "Poke Zach",
 	"verification": "https://www.youtube.com/watch?v=MjKo2a_Vzi4",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 0,
 	"song": "Pokemon GSC - New Bark Town",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "MrCrunchyWaffle",
+			"link": "https://www.youtube.com/watch?v=b4VO14tA4Vo",
+			"percent": 100,
+			"hz": 100,
+			"enjoyment": 10
+		}
+	]
 }
