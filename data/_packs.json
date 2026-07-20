@@ -1,16 +1,5 @@
 [
 	{
-		"name": "RobTop LLCC Pack",
-		"difficulty": 4,
-		"levels": [
-			"tolerance",
-			"gizmo_juncture",
-			"dry_earth",
-			"let_em_go_crazy",
-			"flamin_hot_cheetos"
-		]
-	},
-	{
 		"name": "Salukis Never Clear Pack",
 		"difficulty": 3,
 		"levels": [
