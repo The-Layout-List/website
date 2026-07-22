@@ -1852,5 +1852,14 @@
 		"from_rank": null,
 		"above": "waveroad",
 		"below": "blades_of_chaos"
+	},
+	{
+		"date": 1784699199,
+		"action": "placed",
+		"name": "departing_regret",
+		"to_rank": 328,
+		"from_rank": null,
+		"above": "atosucksatbuilding",
+		"below": "something_comforting"
 	}
 ]
