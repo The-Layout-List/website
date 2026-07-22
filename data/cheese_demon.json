@@ -1,10 +1,13 @@
 {
 	"id": 143571213,
 	"name": "cheese demon",
-	"creators": ["hardhat900","simplyz119"],
+	"creators": [
+		"hardhat900",
+		"simplyz119"
+	],
 	"verifier": "Zyxo",
 	"verification": "https://www.youtube.com/watch?v=izllp-r-TsE",
-	"percentToQualify": 100,
+	"percentToQualify": 66,
 	"password": "Free to copy",
 	"difficulty": 6,
 	"song": "Joy Again - Looking Out For You",
