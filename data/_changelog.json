@@ -1870,5 +1870,14 @@
 		"from_rank": null,
 		"above": "cenit",
 		"below": "sorryforpartying_asteria"
+	},
+	{
+		"date": 1784700127,
+		"action": "placed",
+		"name": "cheese_demon",
+		"to_rank": 64,
+		"from_rank": null,
+		"above": "the_enchanting",
+		"below": "memosepia"
 	}
 ]
