@@ -11,13 +11,6 @@
 	"difficulty": 3,
 	"records": [
 		{
-			"user": "zDark",
-			"link": "OWNER",
-			"percent": 100,
-			"hz": 360,
-			"mobile": false
-		},
-		{
 			"user": "mrperson",
 			"link": "https://youtu.be/ELw_98e7QPw",
 			"percent": 100,
