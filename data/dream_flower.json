@@ -1,12 +1,22 @@
 {
 	"id": 145083437,
 	"name": "Dream Flower",
-	"creators": ["Screendoe"],
+	"creators": [
+		"Screendoe"
+	],
 	"verifier": "Screendoe",
 	"verification": "https://www.youtube.com/watch?v=5GKY7HTpCXE",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 2,
 	"song": "KLYDIX - Dream Flower (????)",
-	"records": []
+	"records": [
+		{
+			"user": "Popples",
+			"link": "https://medal.tv/games/geometry-dash/clips/n8Vn1hcBMiyLglKhh?invite=cr-MSxVbnMsNjI1MjA4NzQ1",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		}
+	]
 }
