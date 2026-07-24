@@ -35,6 +35,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "Salukis",
+			"link": "https://www.youtube.com/watch?v=mN9Kkd_Yllw",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 4
 		}
 	]
 }
