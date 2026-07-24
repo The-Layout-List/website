@@ -10,5 +10,13 @@
 	"password": "Free to copy",
 	"difficulty": 4,
 	"song": "ImCold - Yeah",
-	"records": []
+	"records": [
+		{
+			"user": "z4",
+			"link": "https://www.youtube.com/watch?v=Q2dzr1lGdas",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 10
+		}
+	]
 }
