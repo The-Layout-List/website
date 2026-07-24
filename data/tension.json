@@ -1,7 +1,9 @@
 {
 	"id": 137220988,
 	"name": "TENSION",
-	"creators": ["Math19"],
+	"creators": [
+		"Math19"
+	],
 	"verifier": "Math19",
 	"verification": "https://www.youtube.com/watch?v=EyyqbvjfsH8",
 	"percentToQualify": 59,
@@ -9,5 +11,13 @@
 	"difficulty": 5,
 	"song": "MDK - Fingerbang",
 	"enjoyment": 6,
-	"records": []
+	"records": [
+		{
+			"user": "gam",
+			"link": "https://www.youtube.com/watch?v=5jhbPb2eQLo",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 6
+		}
+	]
 }
