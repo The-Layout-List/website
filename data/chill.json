@@ -353,6 +353,13 @@
 			"hz": 100,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "bear",
+			"link": "https://www.youtube.com/watch?v=4YxVnrcffzg",
+			"percent": 100,
+			"hz": 280,
+			"enjoyment": 8
 		}
 	]
 }
