@@ -139,6 +139,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 7
+		},
+		{
+			"user": "Pickleation",
+			"link": "https://www.youtube.com/watch?v=Dof8skP-axs",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 8
 		}
 	]
 }
