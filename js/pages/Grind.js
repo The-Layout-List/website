@@ -57,7 +57,7 @@ export default {
                         <br>
                         <h2 v-if="completed.levels.length > 0">Completed:</h2>
                         <div class="completed-levels-container">
-                            <p v-for="level in completed.levels" >{{ level.name }} {{ level.percent }}%{{ level.enjoyment !== null && level.enjoyment !== undefined ? " (" + level.enjoyment + "/10)" : "" }} +{{ level.pts }}</p>
+                            <p v-for="level in completed.levels" >{{ level.name }} {{ level.percent }}%{{ level.enjoyment !== undefined ? " (" + level.enjoyment + "/10)" : "" }} +{{ level.pts }}</p>
                         </div>
                         <br v-if="completed.levels.length > 0">
                         <h3 v-if="completed.levels.length > 0">Total: +{{ totalPoints }} pts</h3>
