@@ -226,7 +226,7 @@ export default {
                 
                 const foundusers = []
                 for (const record of templevel.records) {
-                    if (record.enjoyment && (typeof record.enjoyment === "string" && record.enjoyment !== "?")) {
+                    if (record.enjoyment != null && (typeof record.enjoyment === "string" && record.enjoyment !== "?")) {
                         console.warn(`Found wrong type of enjoyment on level ${templevel.name} (${record.enjoyment})! Please set enjoyment to a number or '?'`)
                     }
                     if (foundusers.includes(record.user) || record.user === templevel.verifier) {
@@ -235,7 +235,7 @@ export default {
                         foundusers.push(record.user)
                     }
 
-                    if (record.enjoyment && (templevel.creators.includes(record.user))) {
+                    if (record.enjoyment != null && (templevel.creators.includes(record.user))) {
                         console.warn(`Invalid enjoyment on ${templevel.name}: ${record.enjoyment}/10 by ${record.user}!`)
                     }
 
