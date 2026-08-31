@@ -12,5 +12,14 @@
 	"song": "UNDEAD CORPORATION - Everything will freeze",
 	"songLink": "https://drive.google.com/file/d/1h3cFMWWsye8k43OTIbKP4WQAKljnIECb/view?usp=drive_link",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "dunix",
+			"link": "https://youtu.be/lOWUIZMlOec",
+			"percent": 100,
+			"hz": 144,
+			"mobile": false,
+			"enjoyment": 9
+		}
+	]
 }
