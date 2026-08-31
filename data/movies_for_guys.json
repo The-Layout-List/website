@@ -173,6 +173,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "sklws",
+			"link": "https://www.youtube.com/watch?v=A585WNFk_xQ",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 10
 		}
 	]
 }
