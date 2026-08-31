@@ -397,6 +397,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 9
+		},
+		{
+			"user": "Pewn",
+			"link": "https://youtu.be/BXGIHUk0YwE?si=A1a3Q0nZMK7D3zLG",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
