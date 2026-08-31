@@ -12,5 +12,13 @@
 	"difficulty": 6,
 	"song": "velvetomo - hellooo wowowow",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "ThisGuyKreas",
+			"link": "https://youtu.be/lKranxN_8uc&t=900",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 6
+		}
+	]
 }
