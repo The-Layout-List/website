@@ -799,6 +799,13 @@
 			"percent": 100,
 			"hz": 240,
 			"mobile": false
+		},
+		{
+			"user": "Glorbo",
+			"link": "https://youtu.be/ok9-xvxOtAk",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
