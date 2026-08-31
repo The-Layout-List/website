@@ -358,6 +358,14 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "Kameron88",
+			"link": "https://youtu.be/nYwhumSknz0?is=kjfJfh-Tl7-fQXiZ",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8,
+			"mobile": true
 		}
 	]
 }
