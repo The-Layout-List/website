@@ -246,6 +246,13 @@
 			"hz": 100,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "agentgiscool",
+			"link": "https://youtu.be/PAVF4hqple0",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false
 		}
 	]
 }
