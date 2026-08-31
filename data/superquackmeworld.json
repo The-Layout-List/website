@@ -224,6 +224,13 @@
 			"hz": 100,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "Thing",
+			"link": "https://medal.tv/games/geometry-dash/clips/nmQ2BiSlk7LMjxlix?invite=cr-MSx6SzksNTA2MzI2OTQ2",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 10
 		}
 	]
 }
