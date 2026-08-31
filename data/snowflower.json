@@ -654,6 +654,13 @@
 			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
+		},
+		{
+			"user": "nooob07",
+			"link": "https://youtu.be/MMkpe54eYos",
+			"percent": 100,
+			"hz": 60,
+			"mobile": false
 		}
 	]
 }
