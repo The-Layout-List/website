@@ -639,6 +639,13 @@
 			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
+		},
+		{
+			"user": "Miljan",
+			"link": "https://www.youtube.com/watch?v=fDNWmjoz71U",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 1
 		}
 	]
 }
