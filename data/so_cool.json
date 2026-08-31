@@ -1927,6 +1927,14 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
+		},
+		{
+			"user": "Ramsigma_60671",
+			"link": "https://www.youtube.com/watch?v=3HvsxGsxLgA",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10,
+			"mobile": true
 		}
 	]
 }
