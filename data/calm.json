@@ -366,6 +366,13 @@
 			"hz": 60,
 			"enjoyment": 8,
 			"mobile": true
+		},
+		{
+			"user": "KingOfDudes",
+			"link": "https://www.youtube.com/watch?v=oqMa4MBD0rU",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 7
 		}
 	]
 }
