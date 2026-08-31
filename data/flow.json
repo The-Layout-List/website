@@ -503,6 +503,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 6
+		},
+		{
+			"user": "Beauloni2",
+			"link": "https://youtu.be/f_uougnTkBo",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
