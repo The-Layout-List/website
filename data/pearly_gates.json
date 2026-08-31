@@ -785,6 +785,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": false
+		},
+		{
+			"user": "Beauloni2",
+			"link": "https://www.youtube.com/watch?v=aYfcO6dx6JM",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
