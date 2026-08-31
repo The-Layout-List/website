@@ -121,6 +121,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 4
+		},
+		{
+			"user": "gam",
+			"link": "https://www.youtube.com/watch?v=gGSCmW5VSBk",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 7
 		}
 	]
 }
