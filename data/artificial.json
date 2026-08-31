@@ -1667,6 +1667,14 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
+		},
+		{
+			"user": "XBreadGDX",
+			"link": "https://youtu.be/87Zv2bxpBTU?is=6tRYbxR5NPJZAdsm",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9,
+			"mobile": true
 		}
 	]
 }
