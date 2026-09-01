@@ -1935,6 +1935,13 @@
 			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
+		},
+		{
+			"user": "blueshift",
+			"link": "https://youtu.be/dgmFDWt3XQg",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
