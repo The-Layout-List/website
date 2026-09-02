@@ -1,42 +1,67 @@
 [
-    {
-        "role": "owner",
-        "name": "evil",
-        "link": "https://www.youtube.com/@EvilEmperium"
-    },
-    {
-        "role": "owner",
-        "name": "Hydraniac",
-        "link": "https://www.youtube.com/@Hydraniac"
-    },
-    {
-        "role": "owner",
-        "name": "sphericle",
-        "link": "https://youtube.com/@zsphericle"
-    },
-    {
-        "role": "helper",
-        "name": "Infinera",
-        "link": "https://www.youtube.com/@infi9626"
-    },
-    {
-        "role": "helper",
-        "name": "gam",
-        "link": "https://www.youtube.com/@gamree94"
-    },
-    {
-        "role": "helper",
-        "name": "sn0wiscold",
-        "link": "https://www.youtube.com/@sn0wiscold"
-    },
-    {
-        "role": "helper",
-        "name": "tangi",
-        "link": "https://www.youtube.com/@Tangiiness"
-    },
-    {
-        "role": "dev",
-        "name": "sphericle",
-        "link": "https://github.com/sphericle"
-    }
+  {
+    "roles": ["owner"],
+    "name": "evil",
+    "link": "https://www.youtube.com/@EvilEmperium"
+  },
+  {
+    "roles": ["owner"],
+    "name": "Hydraniac",
+    "link": "https://www.youtube.com/@Hydraniac"
+  },
+  {
+    "roles": ["owner", "dev"],
+    "name": "sphericle",
+    "link": "https://youtube.com/@zsphericle"
+  },
+  {
+    "roles": ["mod"],
+    "name": "Infinera",
+    "link": "https://www.youtube.com/@infi9626"
+  },
+  {
+    "roles": ["mod"],
+    "name": "gam",
+    "link": "https://www.youtube.com/@gamree94"
+  },
+  {
+    "roles": ["mod"],
+    "name": "sn0wiscold",
+    "link": "https://www.youtube.com/@sn0wiscold"
+  },
+  {
+    "roles": ["mod"],
+    "name": "tangi",
+    "link": "https://www.youtube.com/@Tangiiness"
+  },
+  {
+    "roles": ["helper"],
+    "name": "Asteria",
+    "link": "https://www.youtube.com/channel/UCgu08lWU3NQqfvnPkIRV9xg"
+  },
+  {
+    "roles": ["helper"],
+    "name": "fusemax",
+    "link": "https://www.youtube.com/channel/UCGYb0XyFNd--WOfHbfo3z3Q"
+  },
+  {
+    "roles": ["helper"],
+    "name": "haristic",
+    "link": "https://www.youtube.com/channel/UCW1CH3fRh0h03FvkCpCfJdA"
+  },
+  {
+    "roles": ["helper"],
+    "name": "Screendoe",
+    "link": "https://www.youtube.com/@screendoe"
+  },
+  {
+    "roles": ["dev"],
+    "name": "Oculations",
+    "link": "https://github.com/ThatGuyNick05"
+  },
+  {
+    "roles": ["dev"],
+    "name": "Mystikl",
+    "link": "https://www.youtube.com/@lMystikl"
+  }
 ]

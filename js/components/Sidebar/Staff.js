@@ -1,4 +1,3 @@
-import { fetchStaff } from "../../content.js"
 import { store } from '../../main.js'
 import Spinner from "../Spinner.js";
 
@@ -7,7 +6,7 @@ export default {
         staff: [],
         roleIconMap: {
             owner: 'crown',
-            admin: 'user-gear',
+            mod: 'user-gear',
             helper: 'user-shield',
             dev: 'code',
             trial: 'user-lock',
@@ -19,7 +18,7 @@ export default {
             <h3>List Staff</h3>
             <ol class="staff">
                 <li v-for="editor in staff">
-                    <img :src="'/assets/' + roleIconMap[editor.role] + (true ? '-dark' : '') + '.svg'" :alt="editor.role">
+                    <img v-for="role in editor.roles" :src="'/assets/' + roleIconMap[role] + (true ? '-dark' : '') + '.svg'" :alt="role">
                     <a class="type-label-lg link director" target="_blank" :href="editor.link">{{ editor.name }}</a>
                 </li>
             </ol>
