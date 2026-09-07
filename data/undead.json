@@ -1,7 +1,9 @@
 {
 	"id": 113487082,
 	"name": "UNDEAD",
-	"creators": ["Sothic"],
+	"creators": [
+		"Sothic"
+	],
 	"verifier": "Sothic",
 	"verification": "https://www.youtube.com/watch?v=v0J1zM8knbo",
 	"percentToQualify": 100,
@@ -9,5 +11,6 @@
 	"difficulty": 6,
 	"song": "YOASOBI - UNDEAD",
 	"showcase": "https://www.youtube.com/watch?v=W0tSUqEEp5M",
-	"records": []
+	"records": [],
+	"songLink": "https://drive.google.com/file/d/11nG9R9kQ7VEJelPVL2rjEpo6xU6OdkQq/view?usp=sharing"
 }
