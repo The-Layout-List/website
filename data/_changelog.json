@@ -1969,5 +1969,14 @@
 		"from_rank": null,
 		"above": "smooktober",
 		"below": "eggx"
+	},
+	{
+		"date": 1788746838,
+		"action": "placed",
+		"name": "snowy_ridge",
+		"to_rank": 96,
+		"from_rank": null,
+		"above": "nana",
+		"below": "take_me_away"
 	}
 ]
