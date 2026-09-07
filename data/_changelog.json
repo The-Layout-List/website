@@ -1978,5 +1978,14 @@
 		"from_rank": null,
 		"above": "nana",
 		"below": "take_me_away"
+	},
+	{
+		"date": 1788747287,
+		"action": "placed",
+		"name": "undead",
+		"to_rank": 87,
+		"from_rank": null,
+		"above": "death_cones",
+		"below": "unnamed_sphere_level"
 	}
 ]
