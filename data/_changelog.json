@@ -1987,5 +1987,14 @@
 		"from_rank": null,
 		"above": "death_cones",
 		"below": "unnamed_sphere_level"
+	},
+	{
+		"date": 1788748067,
+		"action": "raised",
+		"name": "salukis_never_clear_xvelocityy",
+		"to_rank": 129,
+		"from_rank": 150,
+		"above": "vodka_circles",
+		"below": "tension"
 	}
 ]
