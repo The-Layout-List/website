@@ -1942,5 +1942,14 @@
 		"from_rank": null,
 		"above": "death_to_ye_three",
 		"below": "rubber"
+	},
+	{
+		"date": 1788744632,
+		"action": "placed",
+		"name": "bipolar",
+		"to_rank": 506,
+		"from_rank": null,
+		"above": "chill",
+		"below": "in_circles"
 	}
 ]
