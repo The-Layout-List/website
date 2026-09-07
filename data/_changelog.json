@@ -1951,5 +1951,14 @@
 		"from_rank": null,
 		"above": "chill",
 		"below": "in_circles"
+	},
+	{
+		"date": 1788745366,
+		"action": "placed",
+		"name": "a_sky_full_of_stars",
+		"to_rank": 430,
+		"from_rank": null,
+		"above": "dark_patience",
+		"below": "now_i_do"
 	}
 ]
