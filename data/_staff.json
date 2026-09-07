@@ -16,8 +16,8 @@
   },
   {
     "roles": ["mod"],
-    "name": "Infinera",
-    "link": "https://www.youtube.com/@infi9626"
+    "name": "Asteria.",
+    "link": "https://www.youtube.com/channel/UCgu08lWU3NQqfvnPkIRV9xg"
   },
   {
     "roles": ["mod"],
@@ -26,18 +26,13 @@
   },
   {
     "roles": ["mod"],
-    "name": "sn0wiscold",
-    "link": "https://www.youtube.com/@sn0wiscold"
+    "name": "Infinera",
+    "link": "https://www.youtube.com/@infi9626"
   },
   {
     "roles": ["mod"],
-    "name": "tangi",
-    "link": "https://www.youtube.com/@Tangiiness"
-  },
-  {
-    "roles": ["helper"],
-    "name": "Asteria.",
-    "link": "https://www.youtube.com/channel/UCgu08lWU3NQqfvnPkIRV9xg"
+    "name": "sn0wiscold",
+    "link": "https://www.youtube.com/@sn0wiscold"
   },
   {
     "roles": ["helper"],
@@ -55,13 +50,18 @@
     "link": "https://www.youtube.com/@screendoe"
   },
   {
-    "roles": ["dev"],
-    "name": "Oculations",
-    "link": "https://github.com/ThatGuyNick05"
+    "roles": ["helper"],
+    "name": "tangi",
+    "link": "https://www.youtube.com/@Tangiiness"
   },
   {
     "roles": ["dev"],
     "name": "Mystikl",
     "link": "https://www.youtube.com/@lMystikl"
+  },
+  {
+    "roles": ["dev"],
+    "name": "Oculations",
+    "link": "https://github.com/ThatGuyNick05"
   }
 ]
