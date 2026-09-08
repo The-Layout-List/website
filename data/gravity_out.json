@@ -919,6 +919,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "XBreadGDX",
+			"link": "https://www.youtube.com/watch?v=yA4DKe-W3dE",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9,
+			"mobile": true
 		}
 	]
 }
