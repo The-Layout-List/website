@@ -11,6 +11,14 @@
 	"difficulty": 5,
 	"song": "Snappydoodle, Lux, & Luomixer - Snowy Ridge (V3)",
 	"showcase": "https://www.youtube.com/watch?v=l5vjXAn-DBw",
-	"records": [],
+	"records": [
+		{
+			"user": "palkis",
+			"link": "https://www.youtube.com/watch?v=6rJULI5R52c",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 7
+		}
+	],
 	"songLink": "https://drive.google.com/file/d/1VjP8oebpqIFev26GkQgV1aXexUcSuGo3/view?usp=sharing"
 }
