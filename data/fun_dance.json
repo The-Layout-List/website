@@ -1575,6 +1575,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 5
+		},
+		{
+			"user": "KingOfDudes",
+			"link": "https://www.youtube.com/watch?v=Ct6YysctDqM",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10
 		}
 	]
 }
