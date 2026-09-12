@@ -2014,5 +2014,14 @@
 		"from_rank": null,
 		"above": "maximum_energy",
 		"below": "tolerance"
+	},
+	{
+		"date": 1789196922,
+		"action": "placed",
+		"name": "closing_eyes",
+		"to_rank": 102,
+		"from_rank": null,
+		"above": "scarlet_eclipse",
+		"below": "rubber"
 	}
 ]
