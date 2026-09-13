@@ -1942,6 +1942,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
+		},
+		{
+			"user": "MattyRot",
+			"link": "https://youtu.be/uOjCgrJArqU?is=jPWb4vDfsXj9H74M",
+			"percent": 10,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
