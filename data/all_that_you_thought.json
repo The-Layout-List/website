@@ -99,6 +99,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 8
+		},
+		{
+			"user": "Thing",
+			"link": "https://medal.tv/games/geometry-dash/clips/nsT5fIbqjw0TSFhWK?invite=cr-MSxLd28sNTA2MzI2OTQ2",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 10
 		}
 	]
 }
