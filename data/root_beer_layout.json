@@ -1225,6 +1225,13 @@
 			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
+		},
+		{
+			"user": "woachi",
+			"link": "https://youtu.be/WjK_NdWnOO0",
+			"percent": 100,
+			"hz": 400,
+			"mobile": false
 		}
 	]
 }
