@@ -423,6 +423,13 @@
 			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
+		},
+		{
+			"user": "Atomik58",
+			"link": "https://youtube.com/shorts/aRZdt_EUCH0?si=wDQ3mRIocunDsYL0",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 10
 		}
 	]
 }
