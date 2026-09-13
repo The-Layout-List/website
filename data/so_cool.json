@@ -1957,6 +1957,13 @@
 			"hz": 400,
 			"mobile": false,
 			"enjoyment": 6
+		},
+		{
+			"user": "Atomik58",
+			"link": "https://www.youtube.com/shorts/X5eJVeRlF7A",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 7
 		}
 	]
 }
