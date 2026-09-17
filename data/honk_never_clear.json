@@ -1,7 +1,9 @@
 {
 	"id": 147637822,
 	"name": "Honk Never Clear",
-	"creators": ["sn0w"],
+	"creators": [
+		"sn0w"
+	],
 	"verifier": "fusemax",
 	"verification": "https://www.youtube.com/watch?v=ou-29IIGMcM",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 3,
 	"song": "Waterflame - -Electroman Adventures-",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "YourLighy",
+			"link": "https://medal.tv/games/geometry-dash/clips/no08Dt90n6shJM8V1?invite=cr-MSw5NTIsMTgxNzY3NTk",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 7
+		}
+	]
 }
