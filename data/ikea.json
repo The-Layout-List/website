@@ -81,6 +81,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "Fracty",
+			"link": "https://www.youtube.com/watch?v=T5kRKr0eoS8",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 6
 		}
 	]
 }
