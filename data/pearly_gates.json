@@ -807,6 +807,14 @@
 			"hz": 400,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "ghostface05476_61610",
+			"link": "https://youtu.be/1dDL_T4ksmM",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 7,
+			"mobile": true
 		}
 	]
 }
