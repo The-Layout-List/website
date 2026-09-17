@@ -13,5 +13,13 @@
 	"song": "Joy Again - Looking Out For You",
 	"songLink": "https://drive.google.com/file/d/1YTCzqmab-1uc7FrUCFrHOomBzjVa_3ev/view?usp=sharing",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "DeltaGD",
+			"link": "https://medal.tv/games/geometry-dash/clips/ntS6hzK5ZkiEWDipT?invite=cr-MSxkaWosMjU2MDQyMDAx",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 8
+		}
+	]
 }
