@@ -84,6 +84,14 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 8
+		},
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://www.youtube.com/watch?v=-fYrZo5HxmI",
+			"percent": 100,
+			"hz": 100,
+			"mobile": false,
+			"enjoyment": 10
 		}
 	]
 }

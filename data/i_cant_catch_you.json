@@ -1,7 +1,9 @@
 {
 	"id": 145024193,
 	"name": "I Can't Catch You",
-	"creators": ["Salukis"],
+	"creators": [
+		"Salukis"
+	],
 	"verifier": "Solo12",
 	"verification": "https://www.youtube.com/watch?v=ys7KDUl4JlA",
 	"percentToQualify": 100,
@@ -10,5 +12,14 @@
 	"song": "Sixpence None The Richer - I Can't Catch You",
 	"songLink": "https://drive.google.com/file/d/1hutmqV9f9XVUZqjLQy6pzoiE8WMOt1hH/view?usp=sharing",
 	"showcase": "https://www.youtube.com/watch?v=QbMI958qafM",
-	"records": []
+	"records": [
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://www.youtube.com/watch?v=-fYrZo5HxmI",
+			"percent": 100,
+			"hz": 100,
+			"mobile": false,
+			"enjoyment": 7
+		}
+	]
 }
