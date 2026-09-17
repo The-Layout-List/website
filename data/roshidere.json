@@ -1,7 +1,10 @@
 {
 	"id": 142110141,
 	"name": "Roshidere",
-	"creators": ["Vupireum","oAquix"],
+	"creators": [
+		"Vupireum",
+		"oAquix"
+	],
 	"verifier": "oAquix",
 	"verification": "https://www.youtube.com/watch?v=plEODaPXWz4",
 	"percentToQualify": 70,
@@ -10,5 +13,14 @@
 	"song": "HoneyWorks (feat. Chuu-tan) - Kawaikute Gomen",
 	"songLink": "https://drive.google.com/file/d/1eVD5OnxQj5o-7MpEl-rWY0aO7n1u5M2b/view?usp=sharing",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 10
+		}
+	]
 }

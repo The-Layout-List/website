@@ -1,7 +1,9 @@
 {
 	"id": 124658309,
 	"name": "Phantom",
-	"creators": ["Jevan"],
+	"creators": [
+		"Jevan"
+	],
 	"verifier": "Jevan",
 	"verification": "https://youtu.be/Nn1rk7LjQlw",
 	"percentToQualify": 76,
@@ -9,5 +11,14 @@
 	"difficulty": 8,
 	"song": "In Circles - Creo",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 9
+		}
+	]
 }

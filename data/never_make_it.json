@@ -1,12 +1,23 @@
 {
 	"id": 120442643,
 	"name": "never make it",
-	"creators": ["Screendoe"],
+	"creators": [
+		"Screendoe"
+	],
 	"verifier": "Poke Zach",
 	"verification": "https://youtu.be/iv58M2xU954?si=t3BXXXBYfFr84GtS",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 3,
 	"song": "Creo - Never Make It",
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
+		}
+	]
 }

@@ -39,6 +39,14 @@
 			"percent": 80,
 			"hz": 240,
 			"enjoyment": 9
+		},
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	],
 	"songLink": "https://drive.google.com/file/d/1ectBHB9e5Amsqlfl4yWHS429FFbBo_mg/view?usp=sharing"

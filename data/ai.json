@@ -131,6 +131,14 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 0
+		},
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 1
 		}
 	]
 }

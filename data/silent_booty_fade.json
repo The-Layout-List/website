@@ -1,12 +1,23 @@
 {
 	"id": 145910416,
 	"name": "silent booty fade",
-	"creators": ["RealCian"],
+	"creators": [
+		"RealCian"
+	],
 	"verifier": "RealCian",
 	"verification": "https://youtu.be/Jaim6lPLqm0",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 5,
 	"song": "reallerr - party.time (w. skuz)",
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
+		}
+	]
 }

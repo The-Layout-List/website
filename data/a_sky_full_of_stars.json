@@ -11,6 +11,15 @@
 	"difficulty": 1,
 	"song": "Coldplay - A Sky Full of Stars",
 	"showcase": "https://www.youtube.com/watch?v=SaZ9h1jLtHw",
-	"records": [],
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
+		}
+	],
 	"songLink": "https://drive.google.com/file/d/13DqnE_EppoMMi-wKUOLbNAhYOUxlEVEQ/view?usp=sharing"
 }
