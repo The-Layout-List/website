@@ -661,6 +661,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": false
+		},
+		{
+			"user": "lilikko",
+			"link": "https://www.youtube.com/watch?v=aZNyXuU_aIY",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9
 		}
 	]
 }
