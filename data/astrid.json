@@ -183,6 +183,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "sentelfr",
+			"link": "https://www.youtube.com/watch?v=XSS4nl5Ipps",
+			"percent": 100,
+			"hz": 1000,
+			"enjoyment": 7
 		}
 	]
 }
