@@ -10,6 +10,14 @@
 	"password": "Free to copy",
 	"difficulty": 8,
 	"song": "glass beach - Abyss Angel",
-	"records": [],
+	"records": [
+		{
+			"user": "gam",
+			"link": "https://www.youtube.com/watch?v=S2SAgXs9IM0",
+			"percent": 83,
+			"hz": 240,
+			"enjoyment": 6
+		}
+	],
 	"songLink": "https://drive.google.com/file/d/1sGdiTSBrUns5dSDEEexQzRUpTJwM3krN/view?usp=drive_link"
 }
