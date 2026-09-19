@@ -98,6 +98,13 @@
 			"percent": 100,
 			"hz": 100,
 			"enjoyment": 2
+		},
+		{
+			"user": "qwak",
+			"link": "https://www.youtube.com/watch?v=X6ZTumkVs14",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
 		}
 	]
 }
