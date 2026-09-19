@@ -32,6 +32,14 @@
 			"percent": 100,
 			"hz": 720,
 			"enjoyment": 6
+		},
+		{
+			"user": "nootfluke",
+			"link": "https://www.youtube.com/watch?v=rnCV4Xud3Fs",
+			"percent": 100,
+			"hz": 480,
+			"mobile": false,
+			"enjoyment": 6
 		}
 	]
 }
