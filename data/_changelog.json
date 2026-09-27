@@ -2041,5 +2041,14 @@
 		"from_rank": 9,
 		"above": "project_e",
 		"below": "chivalry"
+	},
+	{
+		"date": 1790483437,
+		"action": "raised",
+		"name": "max",
+		"to_rank": 9,
+		"from_rank": 13,
+		"above": "war",
+		"below": "swarm_gp"
 	}
 ]
