@@ -2032,5 +2032,14 @@
 		"from_rank": 17,
 		"above": "incision",
 		"below": "pressure"
+	},
+	{
+		"date": 1790483344,
+		"action": "lowered",
+		"name": "1945",
+		"to_rank": 12,
+		"from_rank": 9,
+		"above": "project_e",
+		"below": "chivalry"
 	}
 ]
