@@ -2023,5 +2023,14 @@
 		"from_rank": null,
 		"above": "scarlet_eclipse",
 		"below": "rubber"
+	},
+	{
+		"date": 1790483284,
+		"action": "raised",
+		"name": "abyss_angel",
+		"to_rank": 15,
+		"from_rank": 17,
+		"above": "incision",
+		"below": "pressure"
 	}
 ]
