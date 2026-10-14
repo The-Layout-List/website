@@ -2059,5 +2059,14 @@
 		"from_rank": 77,
 		"above": "paninireta",
 		"below": "sombawdy"
+	},
+	{
+		"date": 1792021917,
+		"action": "placed",
+		"name": "certified_pro",
+		"to_rank": 296,
+		"from_rank": null,
+		"above": "atmosphere",
+		"below": "wave_hotline"
 	}
 ]
