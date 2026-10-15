@@ -1980,6 +1980,14 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "Nazarep111",
+			"link": "https://youtu.be/eWMm9OysAb0?si=NN6ABe7_pIATjm5K",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true,
+			"enjoyment": 10
 		}
 	]
 }
