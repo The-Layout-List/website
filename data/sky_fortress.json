@@ -28,6 +28,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "palkis",
+			"link": "https://youtu.be/gvLJhrtkV5I?si=AaKH-hf4EeDU9jhE",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 6
 		}
 	]
 }
