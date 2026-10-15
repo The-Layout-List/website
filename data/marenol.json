@@ -506,6 +506,14 @@
 			"hz": 100,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Bro6666668",
+			"link": "https://youtu.be/6ccPP2rolow?si=qNI4ZIfSxUP7motm",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9,
+			"mobile": true
 		}
 	]
 }
