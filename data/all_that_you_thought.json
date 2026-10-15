@@ -106,6 +106,13 @@
 			"percent": 100,
 			"hz": 180,
 			"enjoyment": 10
+		},
+		{
+			"user": "Fracty",
+			"link": "https://youtu.be/qpT_98Ht0Rw",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 8
 		}
 	]
 }
