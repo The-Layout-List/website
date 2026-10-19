@@ -404,6 +404,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 10
+		},
+		{
+			"user": "zN1x",
+			"link": "https://www.youtube.com/watch?v=djT7YboAuiE",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 2
 		}
 	]
 }
