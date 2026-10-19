@@ -1988,6 +1988,13 @@
 			"hz": 90,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "palkis",
+			"link": "https://youtu.be/3sTWZEpJKMs",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 4
 		}
 	]
 }
