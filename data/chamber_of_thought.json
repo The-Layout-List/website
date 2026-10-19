@@ -66,6 +66,13 @@
 			"hz": 100,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Neo",
+			"link": "https://youtu.be/LAVIu76RIUM?si=MuTaeFzzhWHpkXho",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 0
 		}
 	]
 }
