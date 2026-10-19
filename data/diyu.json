@@ -595,6 +595,13 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 3
+		},
+		{
+			"user": "GeminiGD",
+			"link": "https://youtu.be/tr3VEJcSU9Q?si=46jkOZxtWRwN2J7v",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 7
 		}
 	]
 }
