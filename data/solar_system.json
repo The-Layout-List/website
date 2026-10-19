@@ -822,6 +822,13 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 6
+		},
+		{
+			"user": "SebbiGHG",
+			"link": "https://youtu.be/RF5rONuvTyw?si=tRebISjg5Ig6Jxvu",
+			"percent": 100,
+			"hz": 100,
+			"enjoyment": 8
 		}
 	]
 }
