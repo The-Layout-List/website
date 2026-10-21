@@ -182,6 +182,14 @@
 			"percent": 100,
 			"hz": 520,
 			"enjoyment": 6
+		},
+		{
+			"user": "woachi",
+			"link": "https://youtu.be/QLWDwupdjtM",
+			"percent": 100,
+			"hz": 400,
+			"mobile": false,
+			"enjoyment": 3
 		}
 	]
 }
