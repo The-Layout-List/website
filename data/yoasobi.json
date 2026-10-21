@@ -549,6 +549,14 @@
 			"hz": 144,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://youtu.be/5Lcz7fH1ozQ?si=V5B8fDlWkD2TBL7G",
+			"percent": 100,
+			"hz": 100,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
