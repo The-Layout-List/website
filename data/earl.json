@@ -99,6 +99,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
+		},
+		{
+			"user": "AutumnSeen",
+			"link": "https://youtu.be/zUHSGtpSOkM",
+			"percent": 100,
+			"hz": 480,
+			"enjoyment": 9
 		}
 	]
 }
