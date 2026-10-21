@@ -87,6 +87,13 @@
 			"percent": 100,
 			"hz": 100,
 			"enjoyment": 3
+		},
+		{
+			"user": "palkis",
+			"link": "https://www.youtube.com/watch?v=U4hzKdTWrIA",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 5
 		}
 	],
 	"enjoyment": 10
