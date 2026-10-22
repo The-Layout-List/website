@@ -411,6 +411,13 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment": 2
+		},
+		{
+			"user": "somnium",
+			"link": "https://www.youtube.com/watch?v=m7czPD254UE",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 10
 		}
 	]
 }
