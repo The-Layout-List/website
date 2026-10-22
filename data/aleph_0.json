@@ -284,6 +284,13 @@
 			"hz": 120,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "peanutcoolguy",
+			"link": "https://youtu.be/4PeQp7ja64U",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 8
 		}
 	]
 }
