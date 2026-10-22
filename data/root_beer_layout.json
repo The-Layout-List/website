@@ -1255,6 +1255,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 7
+		},
+		{
+			"user": "Mapai",
+			"link": "https://youtu.be/k2wdPp2hBy0?si=3QLSLyT7P8uvR_5J",
+			"percent": 100,
+			"hz": 600,
+			"enjoyment": 9
 		}
 	]
 }
