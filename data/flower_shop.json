@@ -1,7 +1,9 @@
 {
 	"id": 148790638,
 	"name": "FLOWER SHOP",
-	"creators": ["Tornabro"],
+	"creators": [
+		"Tornabro"
+	],
 	"verifier": "Tornabro",
 	"verification": "https://youtu.be/Tb9jmUlhA9E",
 	"percentToQualify": 100,
@@ -10,5 +12,13 @@
 	"song": "花店 - Lexycat",
 	"songLink": "https://cdn.discordapp.com/ephemeral-attachments/1320592923561164871/1548583090769629234/7409645.mp3?ex=6ad11d24&is=6acfcba4&hm=f13529c523d0b549e38fe7d842e8307bf9ff3270420336cf7740837ef3b3af65&",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://medal.tv/games/geometry-dash/clips/nGF30Ri1Mj3TF1vJj?invite=cr-MSxzSXYsMTg1OTcxMTAw",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 7
+		}
+	]
 }
