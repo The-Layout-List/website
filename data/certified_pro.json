@@ -1,12 +1,22 @@
 {
 	"id": 148456365,
 	"name": "certified pro",
-	"creators": ["Screendoe"],
+	"creators": [
+		"Screendoe"
+	],
 	"verifier": "Screendoe",
 	"verification": "https://medal.tv/games/geometry-dash/clips/ntvwKpenSNFdECvkn?invite=cr-MSxXZjQsMjEyMTU0NjM2",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 3,
 	"song": "DJ-Nate - Thermodynamix",
-	"records": []
+	"records": [
+		{
+			"user": "sans_hanitizer",
+			"link": "https://medal.tv/games/geometry-dash/clips/nJ832tN2UUoLN0Zyq?invite=cr-MSxTOTksNDc1MjEzMzM5",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
+		}
+	]
 }
