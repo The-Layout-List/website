@@ -1036,6 +1036,12 @@
 			"hz": 400,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "mrpopollo",
+			"link": "https://www.youtube.com/watch?v=bUALE129KvI",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
