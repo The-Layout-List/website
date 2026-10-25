@@ -12,13 +12,6 @@
 	"enjoyment": 9,
 	"records": [
 		{
-			"user": "Acacia",
-			"link": "https://www.youtube.com/watch?v=Dl8hyKD5hTQ",
-			"percent": 100,
-			"hz": 360,
-			"mobile": false
-		},
-		{
 			"user": "Mystikl",
 			"link": "https://youtu.be/sDBfPpBFox8",
 			"percent": 100,

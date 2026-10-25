@@ -13,14 +13,6 @@
 	"enjoyment": 8,
 	"records": [
 		{
-			"user": "Acacia",
-			"link": "https://www.youtube.com/watch?v=2sDPGT_L8tM",
-			"percent": 100,
-			"hz": 240,
-			"mobile": false,
-			"enjoyment": 9
-		},
-		{
 			"user": "attrixia",
 			"link": "https://youtu.be/tqxtgnrbWgg",
 			"percent": 100,

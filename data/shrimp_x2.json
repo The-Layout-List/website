@@ -19,13 +19,6 @@
 	"difficulty": 5,
 	"records": [
 		{
-			"user": "Acacia",
-			"link": "https://www.youtube.com/watch?v=l7DeT8u5pOc",
-			"percent": 100,
-			"hz": 360,
-			"mobile": false
-		},
-		{
 			"user": "Mystikl",
 			"link": "https://youtu.be/E9hhjwbm-S4",
 			"percent": 100,
