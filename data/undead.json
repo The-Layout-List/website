@@ -19,6 +19,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "zWren",
+			"link": "https://www.youtube.com/watch?v=L-GudDlqCbc",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 10
 		}
 	],
 	"songLink": "https://drive.google.com/file/d/11nG9R9kQ7VEJelPVL2rjEpo6xU6OdkQq/view?usp=sharing"
