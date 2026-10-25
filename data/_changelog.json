@@ -2158,5 +2158,14 @@
 		"from_rank": null,
 		"above": "iter_theoria",
 		"below": "ultracrimson"
+	},
+	{
+		"date": 1792952810,
+		"action": "placed",
+		"name": "somnus",
+		"to_rank": 3,
+		"from_rank": null,
+		"above": "achelous",
+		"below": "dumpster"
 	}
 ]
