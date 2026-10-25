@@ -2140,5 +2140,14 @@
 		"from_rank": null,
 		"above": "escaping_limbo",
 		"below": "death_cones"
+	},
+	{
+		"date": 1792952495,
+		"action": "placed",
+		"name": "animosity",
+		"to_rank": 85,
+		"from_rank": null,
+		"above": "unnamed_sphere_level",
+		"below": "myheadhurts"
 	}
 ]
