@@ -2131,5 +2131,14 @@
 		"from_rank": null,
 		"above": "manipulation",
 		"below": "cenit"
+	},
+	{
+		"date": 1792952352,
+		"action": "placed",
+		"name": "loveless",
+		"to_rank": 90,
+		"from_rank": null,
+		"above": "escaping_limbo",
+		"below": "death_cones"
 	}
 ]
