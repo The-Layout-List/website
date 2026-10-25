@@ -684,6 +684,13 @@
 			"hz": 400,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Mapai",
+			"link": "https://youtu.be/tVAF0qfNMwU?si=H6DAmifnJ6XxhPUH",
+			"percent": 100,
+			"hz": 1000,
+			"enjoyment": 9
 		}
 	]
 }
