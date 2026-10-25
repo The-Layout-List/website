@@ -2122,5 +2122,14 @@
 		"from_rank": null,
 		"above": "stains",
 		"below": "pherese"
+	},
+	{
+		"date": 1792952253,
+		"action": "placed",
+		"name": "lighthouse",
+		"to_rank": 133,
+		"from_rank": null,
+		"above": "manipulation",
+		"below": "cenit"
 	}
 ]
