@@ -1,7 +1,9 @@
 {
 	"id": 150186282,
 	"name": "Rockin It",
-	"creators": ["Poke Zach"],
+	"creators": [
+		"Poke Zach"
+	],
 	"verifier": "Poke Zach",
 	"verification": "https://youtu.be/_SH5m0NbIrA?si=u6iTXo5M1pXpn1dx",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 1,
 	"song": "Spaze - Dark Heart (Tender Heart VIP)",
 	"enjoyment": 9,
-	"records": []
+	"records": [
+		{
+			"user": "MrCrunchyWaffle",
+			"link": "https://youtu.be/vhvtdGSi3-4?si=aoqvwzJ-oQ-w8kr6",
+			"percent": 100,
+			"hz": 100,
+			"enjoyment": 5
+		}
+	]
 }
