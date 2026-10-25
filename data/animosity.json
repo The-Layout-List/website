@@ -1,7 +1,9 @@
 {
 	"id": 149837950,
 	"name": "Animosity",
-	"creators": ["Squidkid72"],
+	"creators": [
+		"Squidkid72"
+	],
 	"verifier": "Screendoe",
 	"verification": "https://youtu.be/iaBUJ3u9ojA?si=w1xuH2v2hPbAFTE7",
 	"percentToQualify": 52,
@@ -10,5 +12,13 @@
 	"song": "Jane Remover - Professional Vengeance",
 	"songLink": "https://drive.google.com/file/d/1aO0wc2N5QnreBve5ikFRo9LEsSnm3LYK/view?usp=sharing",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://medal.tv/games/geometry-dash/clips/nEwkrZBasM3ShVrHY?invite=cr-MSxaNzQsMTg1OTcxMTAw",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment": 9
+		}
+	]
 }
