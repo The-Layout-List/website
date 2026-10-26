@@ -58,6 +58,13 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 6
+		},
+		{
+			"user": "ksuiv",
+			"link": "https://youtu.be/OCCEO1K-Kug?is=2irxvRTBQRXxn1Ol",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 6
 		}
 	]
 }
