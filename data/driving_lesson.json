@@ -329,6 +329,14 @@
 			"hz": 180,
 			"mobile": false,
 			"enjoyment": 2
+		},
+		{
+			"user": "deryamix",
+			"link": "https://www.youtube.com/watch?v=xYP7gEpDA8g",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true,
+			"enjoyment": 5
 		}
 	]
 }

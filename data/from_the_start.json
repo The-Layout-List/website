@@ -112,6 +112,14 @@
 			"percent": 100,
 			"hz": 180,
 			"enjoyment": 8
+		},
+		{
+			"user": "deryamix",
+			"link": "https://www.youtube.com/watch?v=xYP7gEpDA8g",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true,
+			"enjoyment": 6
 		}
 	]
 }
