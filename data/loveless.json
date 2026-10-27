@@ -1,7 +1,9 @@
 {
 	"id": 150696939,
 	"name": "Loveless",
-	"creators": ["enexyl"],
+	"creators": [
+		"enexyl"
+	],
 	"verifier": "mrcrunchywaffle",
 	"verification": "https://www.youtube.com/watch?v=s64k96h4kpE",
 	"percentToQualify": 64,
@@ -9,5 +11,13 @@
 	"difficulty": 6,
 	"song": "Steampianist - Loveless",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "sqrtpie",
+			"link": "https://youtu.be/ul5YFLmxews",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 10
+		}
+	]
 }
