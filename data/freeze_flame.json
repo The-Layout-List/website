@@ -135,6 +135,13 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "Underground82",
+			"link": "https://www.youtube.com/watch?v=eO-RHTXVW_Q",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
 		}
 	]
 }
