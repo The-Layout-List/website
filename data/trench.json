@@ -1,12 +1,22 @@
 {
 	"id": 150774431,
 	"name": "TRENCH",
-	"creators": ["Math19"],
+	"creators": [
+		"Math19"
+	],
 	"verifier": "xvelocityy",
 	"verification": "https://youtu.be/bP4Ml4lSAbk?si=KerEqSDU2n8uZZbA",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 3,
 	"song": "NK - Evil",
-	"records": []
+	"records": [
+		{
+			"user": "MrCrunchyWaffle",
+			"link": "https://www.youtube.com/watch?v=AuLj-p45TxE",
+			"percent": 100,
+			"hz": 100,
+			"enjoyment": 9
+		}
+	]
 }
