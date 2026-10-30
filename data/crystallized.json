@@ -21,14 +21,12 @@
 			"user": "Screendoe",
 			"link": "https://www.youtube.com/watch?v=OiSuKL7Nj8A",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 0
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -36,7 +34,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		}

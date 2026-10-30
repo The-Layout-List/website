@@ -15,14 +15,12 @@
 			"user": "WDWiktor",
 			"link": "https://www.youtube.com/watch?v=A2T736TNvlA",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 6
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/qnXornGLJiU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -30,7 +28,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		}

@@ -19,7 +19,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/qnXornGLJiU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -27,7 +26,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -35,7 +33,6 @@
 			"user": "dunix",
 			"link": "https://youtu.be/lOWUIZMlOec",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 9
 		}

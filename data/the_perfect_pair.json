@@ -17,7 +17,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -25,7 +24,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -33,7 +31,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -41,7 +38,6 @@
 			"user": "blysteryx",
 			"link": "https://www.youtube.com/watch?v=i9-jcI01t50",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 5
 		}

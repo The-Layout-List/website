@@ -15,14 +15,12 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/Ipx128Y3XIQ",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -30,7 +28,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=3hcVIEhQoGs",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 10
 		}
 	]

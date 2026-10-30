@@ -15,7 +15,6 @@
 			"user": "ThisGuyKreas",
 			"link": "https://youtu.be/ok_gBt-pEBE?si=Lp2TAxKemwGpewe0",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 9,
 			"mobile": true
 		},
@@ -23,7 +22,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/V77qVqGAcZY?si=WCxysifieGxLMXhU",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 9,
 			"mobile": true
 		},
@@ -31,7 +29,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -39,7 +36,6 @@
 			"user": "jarzst",
 			"link": "https://youtu.be/6oqgPlOE80s",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -47,7 +43,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/P5aUgIp9EjM?si=gQkikqTrCkmwU-x6",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 1
 		},
@@ -55,7 +50,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/eUKdi3esO3g",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		},
@@ -63,7 +57,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=Cl0taYar7s8",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -71,7 +64,6 @@
 			"user": "WDWiktor",
 			"link": "https://www.youtube.com/watch?v=LcIIEVyCvZs",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -79,7 +71,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=aCNpb7c_S9E",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -87,7 +78,6 @@
 			"user": "hayden",
 			"link": "https://youtu.be/lAjl0P9SNXo?si=PXBLYHGMdN1sXn5S",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 1
 		},
@@ -95,7 +85,6 @@
 			"user": "xvelocityy",
 			"link": "https://youtu.be/9yObBDTtplc",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 3,
 			"mobile": true
 		},
@@ -103,7 +92,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 5
 		}

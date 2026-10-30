@@ -16,7 +16,6 @@
 			"user": "enexyl",
 			"link": "https://www.youtube.com/watch?v=3U9KlPKDhfg",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -24,7 +23,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=2pNDvibHIsM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -32,7 +30,6 @@
 			"user": "Interive",
 			"link": "https://www.tiktok.com/t/ZP8jB3fhp/",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -40,7 +37,6 @@
 			"user": "Vink",
 			"link": "https://youtu.be/0btZwZPWGmA?si=n6NR84yHRV__nmzJ",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -48,7 +44,6 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/orbhhQSn2Qo",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -56,28 +51,24 @@
 			"user": "sn0w",
 			"link": "https://medal.tv/games/geometry-dash/clips/jCe3M5Km7YtUbCnls?invite=cr-MSxabmwsMjY3Njk2MzQ2LA",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 7
 		},
 		{
 			"user": "Len",
 			"link": "https://youtu.be/WsNuoAhsV2U?si=L5PO3bHy6m7ARm8x",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/dFz2w-o-k1Y?si=uh650B-mgA0u_A61",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -85,7 +76,6 @@
 			"user": "MrCrunchyWaffle",
 			"link": "https://www.youtube.com/watch?v=E_eADtzRbro",
 			"percent": 100,
-			"hz": 100,
 			"enjoyment": 10
 		}
 	]

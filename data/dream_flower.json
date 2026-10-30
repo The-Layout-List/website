@@ -15,21 +15,18 @@
 			"user": "Popples",
 			"link": "https://medal.tv/games/geometry-dash/clips/n8Vn1hcBMiyLglKhh?invite=cr-MSxVbnMsNjI1MjA4NzQ1",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "code",
 			"link": "https://medal.tv/games/geometry-dash/clips/ncs4nxy9LqEbpHQ2U?invite=cr-MSxSZFksNjI1MjA4NzQ1",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "poke zach",
 			"link": "https://youtu.be/pIHUcndyn8c",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 7
 		},
@@ -37,28 +34,24 @@
 			"user": "Thing",
 			"link": "https://medal.tv/games/geometry-dash/clips/nn83o4XlyE2lejZSM?invite=cr-MSxCOGosNTA2MzI2OTQ2",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "YourLighy",
 			"link": "https://medal.tv/games/geometry-dash/clips/nawfWVmDaQEyedhN6?invite=cr-MSx3TWgsMTgxNzY3NTk",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/nli9ZE1NbuBkXuHkc?invite=cr-MSxHMUgsMTg1OTcxMTAw",
 			"percent": 100,
-			"hz": 720,
 			"enjoyment": 7
 		},
 		{
 			"user": "deletenine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -66,7 +59,6 @@
 			"user": "blysteryx",
 			"link": "https://youtu.be/kRBll_1WHD4?si=DYMm7IiAoTUFzAPU",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -74,7 +66,6 @@
 			"user": "Altaspooneus",
 			"link": "https://medal.tv/games/geometry-dash/clips/ncFCzKwYY8aF1PEi3?invite=cr-MSxLNzEsMjEyMTU0NjM2",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		}
 	]

@@ -20,14 +20,12 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=49sLPY6swkE",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		}

@@ -15,7 +15,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=Cl0taYar7s8",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -23,14 +22,12 @@
 			"user": "sn0w",
 			"link": "https://medal.tv/games/geometry-dash/clips/kPELTMe2VtZgdHGaT?invite=cr-MSxMNW8sMjY3Njk2MzQ2&v=80",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		}
 	]

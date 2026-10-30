@@ -17,27 +17,23 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AcXjj7YA0SU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "nerik",
 			"link": "https://youtu.be/p77_yQBlyOo",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/RsD1fo8e-N4",
 			"percent": 100,
-			"hz": 144
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		}

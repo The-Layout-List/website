@@ -16,7 +16,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/b8n-UjMXozo?si=mTdf9Ge4DfsKa8Kt",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -24,7 +23,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://medal.tv/games/geometry-dash/clips/m4CFY7SaOTnNkZtn_?invite=cr-MSxIS2UsNDc1MjEzMzM5&v=501",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -32,7 +30,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -40,14 +37,12 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/m8O2dlwocicMGYzUC?invite=cr-MSxvSGssMTg1OTcxMTAw&v=60",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 5
 		},
 		{
 			"user": "xvelocityy",
 			"link": "https://youtu.be/KtEAemY-DJM?si=KEmnMjcxO5V8bD_c",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 8,
 			"mobile": true
 		},
@@ -55,7 +50,6 @@
 			"user": "",
 			"link": "https://youtu.be/JYfaz3wwj0Y",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -63,7 +57,6 @@
 			"user": "Screendoe",
 			"link": "https://youtu.be/JYfaz3wwj0Y",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -71,7 +64,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -79,35 +71,30 @@
 			"user": "nakeedxd",
 			"link": "https://www.youtube.com/watch?v=hcQxJ3scFvg",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 2
 		},
 		{
 			"user": "DeltaJune",
 			"link": "https://youtu.be/Bmw6Yh55o5I?si=L5xdLoR7D8CtZ-36",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 5
 		},
 		{
 			"user": "MrCrunchyWaffle",
 			"link": "https://www.youtube.com/watch?v=N9Bt8ec-ofw",
 			"percent": 100,
-			"hz": 100,
 			"enjoyment": 3
 		},
 		{
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=t8PtcaQdcT8",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 10
 		},
 		{
 			"user": "josikp",
 			"link": "https://youtu.be/iI66pmUKM9E",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -115,7 +102,6 @@
 			"user": "dunix",
 			"link": "https://youtu.be/lOWUIZMlOec",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -123,7 +109,6 @@
 			"user": "jet",
 			"link": "https://www.youtube.com/watch?v=rnCV4Xud3Fs",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -131,7 +116,6 @@
 			"user": "orang cat",
 			"link": "https://www.youtube.com/watch?v=9DykD6oNSGs",
 			"percent": 100,
-			"hz": 1020,
 			"enjoyment": 6
 		}
 	]

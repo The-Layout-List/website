@@ -17,7 +17,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=-fYrZo5HxmI",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -25,7 +24,6 @@
 			"user": "deletenine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		}

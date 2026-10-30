@@ -15,7 +15,6 @@
 			"user": "Tupi",
 			"link": "https://www.youtube.com/watch?v=6Xd2QNbgeDQ&ab_channel=Tup1%5BGD%5D",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -23,7 +22,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/0NlzfxqwKXc?si=J3MyMFyMwuYQs59b",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -31,7 +29,6 @@
 			"user": "Riley",
 			"link": "https://www.youtube.com/watch?v=88hjKR-69xE",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -39,7 +36,6 @@
 			"user": "miniwombat2",
 			"link": "https://www.youtube.com/watch?v=x0DBxeo0Rds",
 			"percent": 64,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -47,28 +43,24 @@
 			"user": "Dom_Luca",
 			"link": "https://www.youtube.com/watch?v=2lo_EEjGEOE",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "Altaspooneus",
 			"link": "https://youtu.be/dwGn83rG0HI",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeltaGD",
 			"link": "https://youtu.be/TyGg_9P4FPA",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 6
 		},
 		{
 			"user": "attrixia",
 			"link": "https://youtu.be/dbJCrlEGSIY",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -76,14 +68,12 @@
 			"user": "Vink",
 			"link": "https://www.youtube.com/watch?v=871k_ejm1_c",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "zWren",
 			"link": "https://youtu.be/iIiBGc23kx0",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -91,14 +81,12 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/lVW3M3ylgcNCLVVvi?invite=cr-MSwzdlIsMTg1OTcxMTAw&v=116",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/qnXornGLJiU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -106,7 +94,6 @@
 			"user": "Blysteryx",
 			"link": "https://www.youtube.com/watch?v=Bc9HaX1Is1k",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 9
 		}
 	]

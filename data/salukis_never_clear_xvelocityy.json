@@ -15,21 +15,18 @@
 			"user": "z4",
 			"link": "https://www.youtube.com/watch?v=Q2dzr1lGdas",
 			"percent": 100,
-			"hz": 180,
 			"enjoyment": 10
 		},
 		{
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=f0D8HnlwvDQ",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 7
 		},
 		{
 			"user": "mrcrunchywaffle",
 			"link": "https://youtu.be/Mw3npBbzqnY?si=sScAkmGwhGjn51k_",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -37,7 +34,6 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/mq693XdF5Jh0xjYjr?invite=cr-MSxOalMsMTg1OTcxMTAw",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 3
 		}
 	],

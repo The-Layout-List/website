@@ -15,21 +15,18 @@
 			"user": "Mystikl",
 			"link": "https://www.youtube.com/watch?v=imITJW2jz4M",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "Alvaneder",
 			"link": "https://www.youtube.com/watch?v=nLaIsoFNgcM",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false
 		},
 		{
 			"user": "Xeronius",
 			"link": "https://youtu.be/GRhbv_hhIEg",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -37,7 +34,6 @@
 			"user": "mrperson",
 			"link": "https://www.youtube.com/watch?v=v_FQCYW0PSI",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -45,7 +41,6 @@
 			"user": "Poke Zach",
 			"link": "https://www.youtube.com/watch?v=QY5gDbkBBKI",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -53,7 +48,6 @@
 			"user": "Hydraniac",
 			"link": "https://www.youtube.com/watch?v=7BnAxTAMFFs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -61,7 +55,6 @@
 			"user": "Asteria.",
 			"link": "https://youtu.be/RmM5nPrzMyA",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -69,7 +62,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/WYf5hySuID8?si=iPUTMhQdRA_secFX",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -77,7 +69,6 @@
 			"user": "sn0w",
 			"link": "https://youtu.be/vaGnza5uDO0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -85,7 +76,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/0q0plWGvPNs?si=uruYBrYMDnxndfia",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 3,
 			"mobile": true
 		},
@@ -93,14 +83,12 @@
 			"user": "Epherium",
 			"link": "https://youtu.be/8TK3yUwjkjs",
 			"percent": 100,
-			"hz": 120,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -108,7 +96,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://youtu.be/ltr2McCNyGc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		}

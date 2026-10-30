@@ -14,7 +14,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/fZhfnbtpajc?si=JXos8I97ySMToZy3",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 9
 		},
@@ -22,7 +21,6 @@
 			"user": "Blysteryx",
 			"link": "https://www.youtube.com/watch?v=-zF37LbBtN4&ab_channel=Blysofthelist",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -30,7 +28,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/0NlzfxqwKXc?si=J3MyMFyMwuYQs59b",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -38,7 +35,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -46,7 +42,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -54,7 +49,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
 		}

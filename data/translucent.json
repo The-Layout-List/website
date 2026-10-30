@@ -14,7 +14,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/kpEUyYf5WJw?si=bD1l1QlNgZeVXQgr",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 4
 		},
@@ -22,7 +21,6 @@
 			"user": "Xeronius",
 			"link": "https://www.youtube.com/watch?v=U4Jd_bhyYqQ",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -30,7 +28,6 @@
 			"user": "sn0w",
 			"link": "https://www.twitch.tv/videos/2291010730",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -38,7 +35,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/JvTeFPj8PHE?si=z2A5000J9ykpt4E6",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -46,7 +42,6 @@
 			"user": "Wingz_GD",
 			"link": "https://youtu.be/rIP6xGdEX3w",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -54,14 +49,12 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AcXjj7YA0SU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -69,14 +62,12 @@
 			"user": "Altaspooneus",
 			"link": "https://medal.tv/games/geometry-dash/clips/kdoJiFy5OjcY4d7Zx?invite=cr-MSxpU3MsMjU4MzczMjM2",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -84,14 +75,12 @@
 			"user": "kian",
 			"link": "https://www.youtube.com/watch?v=nl6bYeHzeGs",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "robotic",
 			"link": "https://youtu.be/NDhIlTD1uQs?si=euDMQ1z_cEqmd43H",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -99,7 +88,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
 		}

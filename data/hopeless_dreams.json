@@ -15,7 +15,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/2_WUH7NIuPs?si=5XQymmsEXrGRsYj4",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 9
 		},
@@ -23,42 +22,36 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/JA_qnNGlBuU",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/_fiMD_6aUqw",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/TJh-lAbAdCM?si=SKtyMKFGtbxQiZTZ",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "RaynoXx",
 			"link": "https://www.youtube.com/watch?v=M7mK2GyMdBs",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true
 		},
 		{
 			"user": "TheCatAstronaut",
 			"link": "https://www.youtube.com/watch?v=eSgXuz0ab2A",
 			"percent": 100,
-			"hz": 170,
 			"mobile": false
 		},
 		{
 			"user": "Blysteryx",
 			"link": "https://www.youtube.com/watch?v=hkiCpD0Su1k",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 5
 		},
@@ -66,7 +59,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/FIAWpXB4mY4?si=v_ak1FFQTaGVEkg7",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -74,7 +66,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/dJ0foW_n3cU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -82,14 +73,12 @@
 			"user": "Hululu",
 			"link": "https://youtu.be/xkjHOYxc7Zw?si=vMfMuSW3gRWxBW4X",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 10
 		},
 		{
 			"user": "robotic",
 			"link": "https://youtu.be/NDhIlTD1uQs?si=euDMQ1z_cEqmd43H",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -97,7 +86,6 @@
 			"user": "xvelocityy",
 			"link": "https://www.youtube.com/watch?v=DElGUvZPxZU",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 8,
 			"mobile": true
 		},
@@ -105,7 +93,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
 		}

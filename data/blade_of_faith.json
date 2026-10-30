@@ -15,7 +15,6 @@
 			"user": "attrixia",
 			"link": "https://youtu.be/zdz9I-cALnM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -23,14 +22,12 @@
 			"user": "Popples",
 			"link": "https://youtu.be/2WLWK7JHbrM",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		}

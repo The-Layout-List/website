@@ -15,7 +15,6 @@
 			"user": "poke zach",
 			"link": "https://youtu.be/pIHUcndyn8c",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 0
 		},
@@ -23,14 +22,12 @@
 			"user": "lingonax",
 			"link": "https://www.youtube.com/watch?v=ZyvTv3YjxH4",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -38,7 +35,6 @@
 			"user": "deletenine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -46,7 +42,6 @@
 			"user": "blysteryx",
 			"link": "https://youtu.be/kRBll_1WHD4?si=DYMm7IiAoTUFzAPU",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 6
 		}

@@ -14,7 +14,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/DuDVc24SeN0?si=VdZlUjIKmCwXCbPD",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -22,7 +21,6 @@
 			"user": "DeleteNine",
 			"link": "https://www.youtube.com/watch?v=M_JV5gEUEbE",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -30,7 +28,6 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/iLHosyrfWwF4jqRcQ?invite=cr-MSwxQzgsMTg1OTcxMTAwLA",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -38,7 +35,6 @@
 			"user": "sn0w",
 			"link": "https://www.youtube.com/watch?v=NFVnSdYPCT8",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -46,7 +42,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=D9xmPSlX7h8",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -54,7 +49,6 @@
 			"user": "Xeronius",
 			"link": "https://www.youtube.com/watch?v=U4Jd_bhyYqQ",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -62,7 +56,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/JvTeFPj8PHE?si=z2A5000J9ykpt4E6",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -70,7 +63,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -78,14 +70,12 @@
 			"user": "Altaspooneus",
 			"link": "https://youtu.be/43PPxqdegQQ",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 8
 		},
 		{
 			"user": "jarzst",
 			"link": "https://youtu.be/6oqgPlOE80s",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -93,7 +83,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/P5aUgIp9EjM?si=gQkikqTrCkmwU-x6",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -101,7 +90,6 @@
 			"user": "raynoxx",
 			"link": "https://www.youtube.com/watch?v=DQn9Tjfaolk",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -109,7 +97,6 @@
 			"user": "WDWiktor",
 			"link": "https://www.youtube.com/watch?v=LcIIEVyCvZs",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -117,7 +104,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=aCNpb7c_S9E",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -125,7 +111,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 6
 		}

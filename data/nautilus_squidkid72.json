@@ -15,27 +15,23 @@
 			"user": "Popples",
 			"link": "https://youtu.be/fujRK5QZ1OY?si=rFCT7jd9VxigGwJ4",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Squidkid72",
 			"link": "https://medal.tv/games/geometry-dash/clips/l8VF2MaYL4pt8HQQC?invite=cr-MSxGRHEsMjAxNjg2NTgw&v=93",
 			"percent": 100,
-			"hz": 240
 		},
 		{
 			"user": "Screendoe",
 			"link": "https://medal.tv/games/geometry-dash/clips/l8VFnZ0mPRzLZes5J?invite=cr-MSxTaWYsMjEyMTU0NjM2&v=101",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 6
 		},
 		{
 			"user": "zyxo",
 			"link": "https://www.youtube.com/watch?v=sHC4h2DQ-zQ",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -43,14 +39,12 @@
 			"user": "Altaspooneus",
 			"link": "https://medal.tv/games/geometry-dash/clips/lp3U5GFjjmMuQjbp7?invite=cr-MSxSdjYsMjU4MzczMjM2&v=97",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 4
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -58,14 +52,12 @@
 			"user": "Fracty",
 			"link": "https://medal.tv/games/geometry-dash/clips/lUn90QMnqK8zM5zTj?invite=cr-MSx5M24sMzU3MTI2MzMz&v=97",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 8
 		},
 		{
 			"user": "sans_hanitizer",
 			"link": "https://medal.tv/games/geometry-dash/clips/m4CFY7SaOTnNkZtn_?invite=cr-MSxIS2UsNDc1MjEzMzM5&v=501",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -73,14 +65,12 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/m5rZDihGIFWeyZnrD?invite=cr-MSxvcXIsMTg1OTcxMTAw&v=95",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -88,7 +78,6 @@
 			"user": "YourLighy",
 			"link": "https://medal.tv/games/geometry-dash/clips/lc0XKjffy4i7U-9fy?invite=cr-MSx4b0csMTgxNzY3NTk",
 			"percent": 100,
-			"hz": 280,
 			"enjoyment": 0
 		}
 	]

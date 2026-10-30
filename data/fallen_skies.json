@@ -25,28 +25,24 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/1DUQFaWYTuQ",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 7
 		},
 		{
 			"user": "NLShorty",
 			"link": "https://youtu.be/aybO_onXq34?feature=shared",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "Snake",
 			"link": "https://youtu.be/9_gLh7oz-lI",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		}

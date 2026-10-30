@@ -15,35 +15,30 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/sDBfPpBFox8",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Ej_7WZxDh6g",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "PoiPonPL",
 			"link": "https://www.youtube.com/watch?v=bG1ARd4Ebgg",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "Guill",
 			"link": "https://www.youtube.com/watch?v=sQ0GRVB9xKY",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/FIAWpXB4mY4?si=v_ak1FFQTaGVEkg7",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -51,7 +46,6 @@
 			"user": "StevenOct",
 			"link": "https://youtu.be/1njL4SYYLpc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -59,7 +53,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/2IQc7qqGvvo",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -67,7 +60,6 @@
 			"user": "XxSirgaxX",
 			"link": "https://www.youtube.com/watch?v=g74dlY72rwM",
 			"percent": 100,
-			"hz": 300,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -75,7 +67,6 @@
 			"user": "Utc",
 			"link": "https://www.youtube.com/watch?v=nfj30jDGaKY",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -83,7 +74,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/GYTMJ7b51Xk",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 9,
 			"mobile": true
 		},
@@ -91,7 +81,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://youtu.be/ltr2McCNyGc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -99,14 +88,12 @@
 			"user": "MrCrunchyWaffle",
 			"link": "https://www.youtube.com/watch?v=TAX4N-gyrH4",
 			"percent": 100,
-			"hz": 100,
 			"enjoyment": 6
 		},
 		{
 			"user": "Jarzst",
 			"link": "https://www.youtube.com/watch?v=TYwC7QKjIZ4",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		}
 	]

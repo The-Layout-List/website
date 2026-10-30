@@ -30,9 +30,6 @@ export default {
                     <p v-if="record.enjoyment === undefined">?/10</p>
                     <p v-else>{{ record.enjoyment }}/10</p>
                 </td>
-                <td class="hz">
-                    <p>{{ record.hz }}FPS</p>
-                </td>
             </tr>
         </table>
     `,

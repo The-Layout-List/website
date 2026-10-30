@@ -19,35 +19,30 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/nqvzGpuue9ebJ1tRB?invite=cr-MSx0cnEsNjI1MjA4NzQ1",
 			"percent": 100,
-			"hz": 720,
 			"enjoyment": 7
 		},
 		{
 			"user": "alen",
 			"link": "https://medal.tv/games/geometry-dash/clips/nqZdSGzzAPns85aCx?invite=cr-MSx0dUQsNjI1MjA4NzQ1",
 			"percent": 100,
-			"hz": 165,
 			"enjoyment": 10
 		},
 		{
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=1Wg0J5t11UY",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		},
 		{
 			"user": "deletenine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "ILovBocchi",
 			"link": "https://www.youtube.com/watch?v=3TKvZwT1xxw",
 			"percent": 100,
-			"hz": 120,
 			"enjoyment": 2,
 			"mobile": true
 		},
@@ -55,7 +50,6 @@
 			"user": "jet",
 			"link": "https://www.youtube.com/watch?v=rnCV4Xud3Fs",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 6
 		}

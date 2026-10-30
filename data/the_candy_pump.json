@@ -15,7 +15,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/Zd1wClt0rQU?si=NWu7KSxtMQ15QqaC",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 5
 		},
@@ -23,7 +22,6 @@
 			"user": "Dangadash",
 			"link": "https://www.youtube.com/watch?v=x3K3tAieN5E",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -31,7 +29,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/38xEA5bjP3g?si=Cswaiotgd7zaSVbK",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -39,7 +36,6 @@
 			"user": "Kind1e",
 			"link": "https://www.youtube.com/watch?v=zhx7xELuQ84",
 			"percent": 100,
-			"hz": 165,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -47,7 +43,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/zupR3tzTcT0",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -55,7 +50,6 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/80GDD4TaXrc",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjyoment": 9
 		},
@@ -63,7 +57,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/OmbmtoXC86g",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 5
 		},
@@ -71,7 +64,6 @@
 			"user": "Xeronius",
 			"link": "https://www.youtube.com/watch?v=U4Jd_bhyYqQ",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -79,7 +71,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -87,7 +78,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -95,7 +85,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/NDhIlTD1uQs?si=euDMQ1z_cEqmd43H",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -103,7 +92,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -111,7 +99,6 @@
 			"user": "josikp",
 			"link": "https://www.youtube.com/watch?v=PXrsXteVPVQ",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 10
 		}

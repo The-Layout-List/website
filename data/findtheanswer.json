@@ -14,7 +14,6 @@
 	  "user": "Mystikl",
 	  "link": "https://youtu.be/MuhIHp1_Y-U",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 5
 	},
@@ -22,7 +21,6 @@
 	  "user": "evil",
 	  "link": "https://youtu.be/F2SAObkKSBg",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 7
 	},
@@ -30,7 +28,6 @@
 	  "user": "rastuyas",
 	  "link": "https://youtu.be/cyh6OTPR3O8",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 7
 	},
@@ -38,7 +35,6 @@
 	  "user": "TurtleER",
 	  "link": "https://youtu.be/JE8XzIV40vU",
 	  "percent": 100,
-	  "hz": 300,
 	  "mobile": false,
 	  "enjoyment": 4
 	},
@@ -46,7 +42,6 @@
 	  "user": "rSnoozy",
 	  "link": "https://youtu.be/_RvyG_1US3g?si=3uxQHp1v1v3pmOhB",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 5
 	},
@@ -54,7 +49,6 @@
 	  "user": "zDark",
 	  "link": "https://youtu.be/l1-YzerjDL8",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 6
 	},
@@ -62,7 +56,6 @@
 	  "user": "Hydraniac",
 	  "link": "https://www.youtube.com/watch?v=6QzEFttIPqw&ab_channel=Hydraniac",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 1
 	},
@@ -70,7 +63,6 @@
 	  "user": "mr123j",
 	  "link": "https://www.youtube.com/watch?v=szaFbN4dX2E&ab_channel=mr123j",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 4
 	},
@@ -78,7 +70,6 @@
 	  "user": "mrperson",
 	  "link": "https://youtu.be/hF-TtPpAnEU",
 	  "percent": 100,
-	  "hz": 144,
 	  "mobile": false,
 	  "enjoyment": 5
 	},
@@ -86,7 +77,6 @@
 	  "user": "Syrcx",
 	  "link": "https://www.youtube.com/watch?v=4KtdCzRzv5U",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 0
 	},
@@ -94,7 +84,6 @@
 	  "user": "Zyxo",
 	  "link": "https://www.youtube.com/watch?v=6jQRtj3Brl0",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": "?"
 	}

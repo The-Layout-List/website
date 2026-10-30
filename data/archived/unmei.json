@@ -17,28 +17,24 @@
 			"user": "evil",
 			"link": "https://youtu.be/NX4_2GrMH14",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 3
 		},
 		{
 			"user": "attrixia",
 			"link": "https://youtu.be/yEPs3df_4MU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 2
 		},
 		{
 			"user": "Syrcx",
 			"link": "https://www.youtube.com/watch?v=YRBUY4rvzDw",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "rustic",
 			"link": "https://youtu.be/-ntpx2yeapM",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 6
 		}
 	]

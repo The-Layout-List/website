@@ -16,48 +16,41 @@
 			"user": "Screendoe",
 			"link": "https://medal.tv/games/geometry-dash/clips/kggapyqMIt2lbvIiO?invite=cr-MSxFcGgsMjEyMTU0NjM2",
 			"percent": 100,
-			"hz": 240
 		},
 		{
 			"user": "Squidkid72",
 			"link": "https://medal.tv/games/geometry-dash/clips/khmoVeVWEB_WVSNOv?invite=cr-MSxEUGIsMjAxNjg2NTgw",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 6
 		},
 		{
 			"user": "YourLighy",
 			"link": "https://www.youtube.com/watch?v=Akjb3FvPiaE",
 			"percent": 100,
-			"hz": 280,
 			"enjoyment": 9
 		},
 		{
 			"user": "sn0w",
 			"link": "https://medal.tv/games/geometry-dash/clips/ksdzeJf7167cZZpVB?invite=cr-MSxtcHUsMjY3Njk2MzQ2",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 7
 		},
 		{
 			"user": "DeltaGD",
 			"link": "https://youtu.be/ExubJgEagvw",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 8
 		},
 		{
 			"user": "Bizdogg",
 			"link": "https://medal.tv/games/geometry-dash/clips/kMSbHmUwC0YpGRlWH?invite=cr-MSxrbGgsMTcyMDA2ODY4&v=97",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=Cl0taYar7s8",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -65,21 +58,18 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/kDMCxJIdJy9QQoeh8?invite=cr-MSxjRnosMTg1OTcxMTAw&v=90",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 7
 		},
 		{
 			"user": "Popples",
 			"link": "https://youtu.be/vw-oVUOhm4k",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -87,14 +77,12 @@
 			"user": "kungfuGD",
 			"link": "https://medal.tv/games/geometry-dash/clips/lsMcVSs0UJlCf3jZe?invite=cr-MSwxSkgsMjY0MzIxMzYw&v=210",
 			"percent": 100,
-			"hz": 280,
 			"enjoyment": 8
 		},
 		{
 			"user": "MrCrunchyWaffle",
 			"link": "https://www.youtube.com/watch?v=vSJGn4SLjJQ",
 			"percent": 100,
-			"hz": 100,
 			"enjoyment": 9
 		}
 	]

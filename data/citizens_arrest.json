@@ -14,7 +14,6 @@
 			"user": "Hydraniac",
 			"link": "https://youtu.be/s4dbhehgiGg?si=ySl7wxVIatba7YBe",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -22,7 +21,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/tHYS7MGcQdk?si=VtKUQ38WmYKnalpm",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 1
 		},
@@ -30,7 +28,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=2pNDvibHIsM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -38,7 +35,6 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/6CFOjLzhTbk",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -46,7 +42,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/EsqeWAyOOuY?si=6F1XhdEvP0k0epr_",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 1
 		},
@@ -54,7 +49,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -62,14 +56,12 @@
 			"user": "Altaspooneus",
 			"link": "https://youtu.be/1fju4d6UomM",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "jarzst",
 			"link": "https://youtu.be/6oqgPlOE80s",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 1
 		},
@@ -77,7 +69,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/P5aUgIp9EjM?si=gQkikqTrCkmwU-x6",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		},
@@ -85,7 +76,6 @@
 			"user": "WDWiktor",
 			"link": "https://www.youtube.com/watch?v=LcIIEVyCvZs",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -93,7 +83,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=aCNpb7c_S9E",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -101,7 +90,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 8
 		}

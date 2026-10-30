@@ -14,7 +14,6 @@
 			"user": "whit",
 			"link": "https://www.youtube.com/watch?v=t-CpHmM8RhM",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -22,14 +21,12 @@
 			"user": "rastuyas",
 			"link": "https://youtu.be/FZ-PlaZ_aSQ",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "mrperson",
 			"link": "https://youtu.be/-Y3pdOuDiHE",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -37,7 +34,6 @@
 			"user": "morsey",
 			"link": "https://www.youtube.com/watch?v=GOqya35T05g",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -45,7 +41,6 @@
 			"user": "yarn",
 			"link": "https://www.youtube.com/watch?v=7NYi4rHUDrI",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -53,14 +48,12 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/PemntjYh6l0",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "sn0w",
 			"link": "https://youtu.be/WrjzlGZEI-g",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -68,7 +61,6 @@
 			"user": "Xeronius",
 			"link": "https://youtu.be/wnpidmKrzhI",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -76,21 +68,18 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/9AjSB4c7Zz4?si=nyXCVyXWDerlagB9",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false
 		},
 		{
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/hNEhdQaVsGA",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "Hydraniac",
 			"link": "https://www.youtube.com/watch?v=g3RqRfyoHkI",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -98,7 +87,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/rM9N2NfzJXs",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -106,21 +94,18 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/7owZ9GvNLcw",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 7
 		},
 		{
 			"user": "Altaspooneus",
 			"link": "https://medal.tv/games/geometry-dash/clips/mhmzJRUvsPq_TUpFh?invite=cr-MSxJbGwsMjU4MzczMjM2",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 1
 		},
 		{
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=-fYrZo5HxmI",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 5
 		}

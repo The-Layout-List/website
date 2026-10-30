@@ -16,21 +16,18 @@
 			"user": "sn0w",
 			"link": "https://medal.tv/games/geometry-dash/clips/kPy3DSLWJX7FkQr2V?invite=cr-MSxKSWQsMjY3Njk2MzQ2&v=79",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Tinkle",
 			"link": "https://youtu.be/DbPrZTQPcCM?si=S6ju1si3M4sca96E",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Poke Zach",
 			"link": "https://youtu.be/okswm7kEhxo",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -38,35 +35,30 @@
 			"user": "Infinera",
 			"link": "https://www.youtube.com/watch?v=-5c2px8NSnM",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "fusemax",
 			"link": "https://medal.tv/games/geometry-dash/clips/l36k9ra4q4chCRbTD?invite=cr-MSxndFksMzY5MjkzOTAx&v=86",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Screendoe",
 			"link": "https://medal.tv/games/geometry-dash/clips/l7l7ohNRRGqya4ztw?invite=cr-MSx0NVcsMjEyMTU0NjM2&v=73",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/H8Gc5on7Fsc",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -74,21 +66,18 @@
 			"user": "Angryface",
 			"link": "https://medal.tv/games/geometry-dash/clips/lYjfZmy6yglW1cCRF?invite=cr-MSxCV08sMjI3OTcxNDYz&v=72",
 			"percent": 100,
-			"hz": 180,
 			"enjoyment": 10
 		},
 		{
 			"user": "NLShorty",
 			"link": "https://youtu.be/lnQYaSQkYC4",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -96,14 +85,12 @@
 			"user": "MrCrunchyWaffle",
 			"link": "https://www.youtube.com/watch?v=Lu4yesaYO0A",
 			"percent": 100,
-			"hz": 100,
 			"enjoyment": 2
 		},
 		{
 			"user": "qwak",
 			"link": "https://www.youtube.com/watch?v=X6ZTumkVs14",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		}
 	]

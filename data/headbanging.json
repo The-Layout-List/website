@@ -15,14 +15,12 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/-oTOi8B-SFU",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=tLgU4y1NOTs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -30,7 +28,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/qnXornGLJiU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		}

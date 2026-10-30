@@ -17,7 +17,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/sipkoLhvc_I",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -25,7 +24,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/BZeEpqWK210?si=K6nU6fygpLCWgfKQ",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -33,7 +31,6 @@
 			"user": "Hydraniac",
 			"link": "https://youtu.be/iOVnORZeRoU?si=cC2HfbRTiNRyvnGX",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -41,7 +38,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/Madzl-SZGn4?si=jNlyYNmbdFe6gd0V",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -49,7 +45,6 @@
 			"user": "IIRafII",
 			"link": "https://youtu.be/B5RpTWZTTkc?si=7v3hIyf_AyoQ8mV6",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -57,7 +52,6 @@
 			"user": "Tinkle",
 			"link": "https://www.youtube.com/watch?v=8pUe1Fjekn4",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -65,7 +59,6 @@
 			"user": "whit",
 			"link": "https://www.youtube.com/watch?v=q8V5kI88qZU&list=PLgRFCTI2K0RtcRCDUVgmBMebStmGTO8i6",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -73,7 +66,6 @@
 			"user": "rastuyas",
 			"link": "https://youtu.be/dhqaRA9iOAM",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
@@ -81,14 +73,12 @@
 			"link": "https://youtu.be/Cc7-fIAXaAE",
 			"percent": 100,
 			"mobile": true,
-			"hz": 60,
 			"enjoyment": 7
 		},
 		{
 			"user": "Wingz_GD",
 			"link": "https://youtu.be/JzmITMqt9t4",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -96,7 +86,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://www.youtube.com/watch?v=MQ1F1DaeZ_k",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -104,7 +93,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -112,56 +100,48 @@
 			"user": "Altaspooneus",
 			"link": "https://medal.tv/games/geometry-dash/clips/kqBceeVkJaUXS2ZDQ?invite=cr-MSx1MVgsMjU4MzczMjM2",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeltaGD",
 			"link": "https://www.youtube.com/watch?v=c0qmFcE0oeo",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		},
 		{
 			"user": "Screendoe",
 			"link": "https://medal.tv/games/geometry-dash/clips/ksAiOtfFdq4ehLjTY?invite=cr-MSxEbkssMjEyMTU0NjM2",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/1aeYg1somh0",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 10
 		},
 		{
 			"user": "marhz",
 			"link": "https://youtu.be/p9RJmyEiKcc",
 			"percent": 100,
-			"hz": 120,
 			"enjoyment": 8
 		},
 		{
 			"user": "Underground82",
 			"link": "https://youtu.be/6P83FsxA0aY",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "17andpregnant",
 			"link": "https://www.youtube.com/watch?v=vUWeQ92mRq0",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 2
 		},
 		{
 			"user": "crystl",
 			"link": "https://www.youtube.com/watch?v=7fJis2BNTFM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		},
@@ -169,7 +149,6 @@
 			"user": "Oganesson",
 			"link": "https://youtu.be/jVbgqhuzWzg?si=RmzHatwcQXGR2lwF",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -177,21 +156,18 @@
 			"user": "Snake",
 			"link": "https://medal.tv/games/geometry-dash/clips/ltwJTTU8UIEpApfam?invite=cr-MSw2WVYsMjc0Njc5Nzgx&v=84",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "YourLighy",
 			"link": "https://medal.tv/games/geometry-dash/clips/nnoL4Vh58Wo1MStxq?invite=cr-MSxETUIsMTgxNzY3NTk",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "mrcrunchywaffle",
 			"link": "https://youtu.be/Mw3npBbzqnY?si=sScAkmGwhGjn51k_",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 8
 		}

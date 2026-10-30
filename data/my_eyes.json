@@ -15,21 +15,18 @@
 			"user": "DJJDK",
 			"link": "https://www.youtube.com/watch?v=7_UHS-94rCo",
 			"percent": 100,
-			"hz": 300,
 			"mobile": false
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://www.youtube.com/watch?v=-ssHUnn5W0Q",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "Mystikl",
 			"link": "https://youtu.be/lPYi_ZrX0hA",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -37,7 +34,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/dtouUQv6V-Q?si=-BV4WtiE5Pm8VFEN",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		}

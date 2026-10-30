@@ -15,21 +15,18 @@
 			"user": "hardhat900",
 			"link": "https://youtu.be/qrC0wyMm5Xg?si=NEjLve8KIDCiENGm",
 			"percent": 100,
-			"hz": 288,
 			"enjoyment": 3
 		},
 		{
 			"user": "Fathom",
 			"link": "https://youtu.be/Stti106sVHk",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -37,14 +34,12 @@
 			"user": "cjsoldan",
 			"link": "https://youtu.be/UYkU5hppDhY",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -52,7 +47,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/JmxyzYKSgAM?si=AUZbdLDpfVSlzGsu",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -60,7 +54,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -68,7 +61,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -76,7 +68,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://medal.tv/games/geometry-dash/clips/nJ8N62rguqm3QW8mv?invite=cr-MSxDNlEsNDc1MjEzMzM5",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		}

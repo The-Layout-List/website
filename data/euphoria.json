@@ -15,7 +15,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/7k61crF5QNU",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -23,7 +22,6 @@
 			"user": "morsey",
 			"link": "https://youtu.be/frINpHSiSAk",
 			"percent": 100,
-			"hz": 300,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -31,7 +29,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/ejyfIH8Hh-w?feature=shared",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -39,7 +36,6 @@
 			"user": "riley",
 			"link": "https://www.youtube.com/watch?v=I3KN_geNolQ",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 0
 		},
@@ -47,7 +43,6 @@
 			"user": "attrixia",
 			"link": "https://youtu.be/GSAhn3pu3vU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -55,35 +50,30 @@
 			"user": "KasiaUwU",
 			"link": "https://youtu.be/stM_xmx-uow",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 10
 		},
 		{
 			"user": "TheCatAstronaut",
 			"link": "https://youtu.be/SpUJe5NWmGw",
 			"percent": 100,
-			"hz": 165,
 			"enjoyment": 10
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/VhIkL5Wl6Zg",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "ICENOVA",
 			"link": "https://www.youtube.com/watch?v=_6Gn5SJGRdg",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 7
 		}
 	]

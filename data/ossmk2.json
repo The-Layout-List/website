@@ -14,14 +14,12 @@
 	  "user": "zDark",
 	  "link": "https://youtu.be/JfeDbjRbJKU",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false
 	},
 	{
 	  "user": "Mystikl",
 	  "link": "https://youtu.be/JBRqTWh6BlI",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 7
 	},
@@ -29,7 +27,6 @@
 	  "user": "Syrcx",
 	  "link": "https://www.youtube.com/watch?v=4KtdCzRzv5U",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 5
 	},
@@ -37,7 +34,6 @@
 	  "user": "Zyxo",
 	  "link": "https://www.youtube.com/watch?v=6jQRtj3Brl0",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": "?"
 	},
@@ -45,7 +41,6 @@
 	  "user": "zWren",
 	  "link": "https://youtu.be/AYSFcVy-x4c",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 8
 	}

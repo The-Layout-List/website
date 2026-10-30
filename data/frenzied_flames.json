@@ -15,21 +15,18 @@
 			"user": "Zyxo",
 			"link": "https://youtu.be/Lptf1V2psPE",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 6
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AcXjj7YA0SU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "Poke Zach",
 			"link": "https://youtu.be/quANcD03FKg?si=EBIDmmnd1aTVA3ZV",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -37,7 +34,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -45,7 +41,6 @@
 			"user": "blysteryx",
 			"link": "https://youtu.be/j4V4aTJQ4uU?si=yAoAtZCxgfLiNKBd",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -53,7 +48,6 @@
 			"user": "Popples",
 			"link": "https://medal.tv/games/imported-clips/clips/n5cRgPb2Qi5_gTGbk?invite=cr-MSxBUzYsNDIzNDc5NDIw",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		}
 	]

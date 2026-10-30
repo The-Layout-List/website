@@ -14,7 +14,6 @@
 			"user": "Poke Zach",
 			"link": "https://www.youtube.com/watch?v=ixLw1E6qqbM",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 7
 		},
@@ -22,28 +21,24 @@
 			"user": "DeleteNine",
 			"link": "https://www.youtube.com/watch?v=lB5n10rBO5U",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false
 		},
 		{
 			"user": "dewbbs",
 			"link": "https://www.youtube.com/watch?v=hawQsDjecn4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		},
 		{
 			"user": "Alvaneder",
 			"link": "https://www.youtube.com/watch?v=7-v22DzfcAQ",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false
 		},
 		{
 			"user": "Blysteryx",
 			"link": "https://www.youtube.com/watch?v=hkiCpD0Su1k",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 7
 		},
@@ -51,7 +46,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/bHQ9Rbl3_rg?si=erV8aIHeWFiOtY1e",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -59,7 +53,6 @@
 			"user": "Vink",
 			"link": "https://youtu.be/tXCRr8x7AvY",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -67,7 +60,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/EXLUxsPZ2rg",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -75,7 +67,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -83,14 +74,12 @@
 			"user": "nakeedxd",
 			"link": "https://youtube.com/shorts/73PDX6N11h8?si=0l46ov6nwd2BREYg",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 8
 		},
 		{
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -98,7 +87,6 @@
 			"user": "Jolly",
 			"link": "https://medal.tv/games/geometry-dash/clips/naYlWxwC9eMZmB6S3?invite=cr-MSw2ZVcsNjI1MjA4NzQ1",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		}
 	]

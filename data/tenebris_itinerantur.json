@@ -14,7 +14,6 @@
 	  "user": "Xeronius",
 	  "link": "https://youtu.be/6X2lhRGpoTo",
 	  "percent": 100,
-	  "hz": 75,
 	  "mobile": false,
 	  "enjoyment": "7"
 	},
@@ -22,14 +21,12 @@
 	  "user": "DeleteNine",
 	  "link": "https://www.youtube.com/watch?v=WG5qRR0IG9c",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false
 	},
 	{
 	  "user": "Blysteryx",
 	  "link": " https://youtu.be/6etBt5MubPc",
 	  "percent": 100,
-	  "hz": 60,
 	  "mobile": true
 	}
   ]

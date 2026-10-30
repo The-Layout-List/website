@@ -17,7 +17,6 @@
 			"user": "Riley",
 			"link": "https://youtu.be/9Q9P2-ZwjrE?si=WdWeqAukKfhEQ1gK",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -25,14 +24,12 @@
 			"user": "sn0w",
 			"link": "https://youtu.be/12gRKHOjiSg",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 7
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		}

@@ -16,14 +16,12 @@
 			"user": "palkis",
 			"link": "https://www.youtube.com/watch?v=6rJULI5R52c",
 			"percent": 100,
-			"hz": 180,
 			"enjoyment": 7
 		},
 		{
 			"user": "deletenine",
 			"link": "https://www.youtube.com/watch?v=-2BIbmLjHA4",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		}

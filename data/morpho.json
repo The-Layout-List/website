@@ -14,14 +14,12 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/vOLpZy_bCrQ",
 			"percent": 100,
-			"hz": 360,
 			"mobile": true
 		},
 		{
 			"user": "Poke Zach",
 			"link": "https://youtu.be/NtC2gHIw2fY?si=CosV19isJ39j-0n4",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -29,7 +27,6 @@
 			"user": "evil++!",
 			"link": "https://youtu.be/44Mhvx6TxUc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 2
 		},
@@ -37,7 +34,6 @@
 			"user": "Xeronius",
 			"link": "https://www.youtube.com/watch?v=EcJzcYXhaHo",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -45,21 +41,18 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/x3hN2o5Avl4",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/aLMqasqUYRE?si=Vywxcor_Ncul0O6v",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/Dj6sNL-50AU?si=3W9uKkIi3gd83LUf",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -67,7 +60,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/NDhIlTD1uQs?si=euDMQ1z_cEqmd43H",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -75,7 +67,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=eD7x8b_Gllg",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 5
 		}

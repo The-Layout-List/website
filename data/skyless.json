@@ -14,7 +14,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/3Le_gUsMXaU?si=IrtDw61uwDcp4UTs",
 			"percent": 100,
-			"hz": 120,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -22,7 +21,6 @@
 			"user": "Xeronius",
 			"link": "https://www.youtube.com/watch?v=EcJzcYXhaHo",
 			"percent": 100,
-			"hz": 75,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -30,21 +28,18 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/JRFWkWzuAQo",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "FloppaTopchick",
 			"link": "https://youtu.be/QHBH8sqImJ8",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false
 		},
 		{
 			"user": "evil++!",
 			"link": "https://youtu.be/LD2vp1SueZ0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -52,28 +47,24 @@
 			"user": "Dellpickle",
 			"link": "https://youtu.be/0FOvIDpKO8Y?si=L-jDfzSlLgzTX7bJ",
 			"percent": 100,
-			"hz": 120,
 			"mobile": true
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://www.youtube.com/watch?v=OXLMhsM_U3g",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true
 		},
 		{
 			"user": "Popples",
 			"link": "https://www.youtube.com/watch?v=n4-yIDRtQhA",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false
 		},
 		{
 			"user": "Poke Zach",
 			"link": "https://www.youtube.com/watch?v=DQy6resmWvg",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 9
 		},
@@ -81,14 +72,12 @@
 			"user": "MurycynGd",
 			"link": "https://www.youtube.com/watch?v=XU5doKLiAKs",
 			"percent": 100,
-			"hz": 300,
 			"mobile": false
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/znfHHXTPk8k?si=00-khqDAyvSAVnQH",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -96,7 +85,6 @@
 			"user": "robotic",
 			"link": "https://www.youtube.com/watch?v=y8Q8RXKev64",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -104,7 +92,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=aCNpb7c_S9E",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -112,7 +99,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=h7UPbSnD5i0",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 6
 		}

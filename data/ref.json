@@ -18,28 +18,24 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/kNTv88V4yc5FofjUS?invite=cr-MSwxNWwsMTg1OTcxMTAw&v=54",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "dunix",
 			"link": "https://youtu.be/48pLV6E2VL4",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 10
 		},
 		{
 			"user": "SuperGabMaker",
 			"link": "https://youtu.be/tQKqsxYhoJ8",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -47,7 +43,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		}

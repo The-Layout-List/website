@@ -15,21 +15,18 @@
 			"user": "DeltaGD",
 			"link": "https://youtu.be/pmSsOGlYR1U",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		},
 		{
 			"user": "Dom_Luca",
 			"link": "https://www.youtube.com/watch?v=_i0M9qed7zA",
 			"percent": 97,
-			"hz": 360,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -37,7 +34,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		}

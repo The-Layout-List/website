@@ -15,27 +15,23 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/BydMouCAVgA",
 			"percent": 100,
-			"hz": 360
 		},
 		{
 			"user": "Mystikl",
 			"link": "https://youtu.be/xscaVXQbwO0",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false
 		},
 		{
 			"user": "mrperson",
 			"link": "https://youtu.be/5EpNph0RNOQ",
 			"percent": 100,
-			"hz": 144,
 			"mobile": false
 		},
 		{
 			"user": "ThisGuyKreas",
 			"link": "https://youtu.be/lhrP8WvtOEc?si=--tN04xzGYOVRVl2",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 7
 		},
@@ -43,7 +39,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AXqRfx9rnRI?si=Ol056iFKHC4Up_Gp",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -51,7 +46,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/Edh95JmRctM",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false
 		}
 	]

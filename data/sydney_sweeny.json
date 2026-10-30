@@ -16,7 +16,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/C-qGo3fzIoU?si=43AjCyAi_AvEFO1X",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10,
 			"mobile": true
 		},
@@ -24,35 +23,30 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/jyHQaFiEdauIzhcyO?invite=cr-MSxiTlEsMTg1OTcxMTAwLA",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "cindr R. blobk REAL VER",
 			"link": "https://youtu.be/2_IJxVYq4SQ",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AcXjj7YA0SU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "Blysteryx",
 			"link": "https://www.youtube.com/watch?v=ny-f77gvAKA&list=PLDSRT6L3kL_bLvrlYI9C5zP-mtTovAHn8&index=1&t=654s",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 8
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -60,21 +54,18 @@
 			"user": "dunix",
 			"link": "https://youtu.be/48pLV6E2VL4",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 10
 		},
 		{
 			"user": "DeltaJune",
 			"link": "https://youtu.be/esAhMtIiObE?si=Gv1eCNAYAZN77Epv",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 10
 		},
 		{
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=gS6nS6NwE1Y",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 9
 		}

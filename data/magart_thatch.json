@@ -15,7 +15,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=tOuI3eJnfBk",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -23,7 +22,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/Yo0asAIlNes?si=6tieQnUVMgdDXjCS",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 7
 		},
@@ -31,7 +29,6 @@
 			"user": "Riley",
 			"link": "https://www.youtube.com/watch?app=desktop&v=h15oOlS0aMM",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": "?"
 		},
@@ -39,7 +36,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/OmbmtoXC86g",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 4
 		},
@@ -47,14 +43,12 @@
 			"user": "Neo",
 			"link": "https://www.youtube.com/watch?v=sD0S_yApSUo",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		},
 		{
 			"user": "evil++!",
 			"link": "https://youtu.be/V2z5E1-uZV0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -62,7 +56,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -70,7 +63,6 @@
 			"user": "robotic",
 			"link": "https://youtu.be/NDhIlTD1uQs?si=euDMQ1z_cEqmd43H",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -78,7 +70,6 @@
 			"user": "sans_hanitizer",
 			"link": "https://youtu.be/ltr2McCNyGc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -86,7 +77,6 @@
 			"user": "hayden",
 			"link": "https://youtu.be/w93ZfPXLxx0?si=RkEfJyvm2euORHH8",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -94,7 +84,6 @@
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=vBGwEWLow50",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -102,14 +91,12 @@
 			"user": "ShiveringStars0",
 			"link": "https://www.youtube.com/watch?v=oTkaUou_VIU",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 7
 		},
 		{
 			"user": "lingonax",
 			"link": "https://www.youtube.com/watch?v=5ywmyHehVXw",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		}

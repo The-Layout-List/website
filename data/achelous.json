@@ -20,7 +20,6 @@
 			"user": "attrixia",
 			"link": "https://www.youtube.com/watch?v=8cbRPyXN3bg",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -28,14 +27,12 @@
 			"user": "jet",
 			"link": "https://www.youtube.com/watch?v=acVOl6FHEK8",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 7
 		},
 		{
 			"user": "Hydraniac",
 			"link": "https://youtu.be/DQEUkW49hkM?si=2AX1AdyZTyFw2UIs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 0
 		},
@@ -43,7 +40,6 @@
 			"user": "zWren",
 			"link": "https://youtu.be/7Thc7c0N694",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		}

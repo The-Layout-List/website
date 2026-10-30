@@ -17,21 +17,18 @@
 			"user": "hardhat900",
 			"link": "https://youtu.be/bnBiB-UFawc",
 			"percent": 100,
-			"hz": 288,
 			"enjoyment": 7
 		},
 		{
 			"user": "cindr R. blobk REAL VER",
 			"link": "https://www.youtube.com/watch?v=JECh-1Ou6Vk",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "Poke Zach",
 			"link": "https://www.youtube.com/watch?v=p70p0pw4-BU",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 6,
 			"mobile": true
 		},
@@ -39,56 +36,48 @@
 			"user": "Vink",
 			"link": "https://www.youtube.com/watch?v=zucUEydxlak",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "gam",
 			"link": "https://www.youtube.com/watch?v=7G3-jilFnpE",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		},
 		{
 			"user": "sn0w",
 			"link": "https://medal.tv/games/geometry-dash/clips/lQVwWHXtxV_1H76lm?invite=cr-MSxqYlMsMjY3Njk2MzQ2&v=58",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 5
 		},
 		{
 			"user": "ThisGuyKreas",
 			"link": "https://youtu.be/k-nOIfoajXA",
 			"percent": 100,
-			"hz": 60,
 			"enjoyment": 6
 		},
 		{
 			"user": "Fathom",
 			"link": "https://youtu.be/pJuu3I-q8Po",
 			"percent": 100,
-			"hz": 360,
 			"enjoyment": 7
 		},
 		{
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/lVSAGExKlX5LNwZbe?invite=cr-MSx4OWYsMTg1OTcxMTAw&v=54",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 6
 		},
 		{
 			"user": "Screendoe",
 			"link": "https://medal.tv/games/geometry-dash/clips/m2A9tSvy3ihZTkJ9o?invite=cr-MSxEbGksMjEyMTU0NjM2&v=52",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 4
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -96,7 +85,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/JNnzm5Ly3is?si=Y-jkP9Xreg28htfD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -104,7 +92,6 @@
 			"user": "AutumnSeen",
 			"link": "https://youtu.be/zUHSGtpSOkM",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 9
 		}
 	]

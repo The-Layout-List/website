@@ -16,7 +16,6 @@
 			"user": "Akuriserv",
 			"link": "https://youtu.be/LpYALDEF9Dg?si=FWjOSaOZ7xavPg7t",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -24,7 +23,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/-5UAUYFx-CY",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -32,7 +30,6 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/8Fi3MlRhlV8?si=eHN3w4Nw9Ru9zq9O",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -40,7 +37,6 @@
 			"user": "Popples",
 			"link": "https://youtu.be/6UMZw6dUGhc",
 			"percent": 100,
-			"hz": 120,
 			"mobile": false,
 			"enjoyment": "?"
 		},
@@ -48,7 +44,6 @@
 			"user": "coubitic",
 			"link": "https://youtu.be/AqtJ0QsYjCU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -56,7 +51,6 @@
 			"user": "ImPhara",
 			"link": "https://www.youtube.com/watch?v=Hc5s1edH1Hc",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -64,7 +58,6 @@
 			"user": "Couropsnov",
 			"link": "https://www.youtube.com/watch?v=kjBGKG-eMIc",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": "?"
 		},
@@ -72,7 +65,6 @@
 			"user": "Robotic",
 			"link": "https://www.youtube.com/watch?v=wg33DV3Up90",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 3
 		},
@@ -80,7 +72,6 @@
 			"user": "cindr R. blobk REAL VER",
 			"link": "https://youtu.be/sWMGD9BmTrY?si=D1cKJupqpLUap4QD",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -88,7 +79,6 @@
 			"user": "Riley",
 			"link": "https://youtu.be/eeV9lFSSOPk",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -96,7 +86,6 @@
 			"user": "attrixia",
 			"link": "https://www.youtube.com/watch?v=ZYdjaK297po",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -104,7 +93,6 @@
 			"user": "Dangadash",
 			"link": "https://www.youtube.com/watch?v=pGBklNC5aCI",
 			"percent": 100,
-			"hz": 60,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -112,7 +100,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=RaA8m5OODDY",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -120,7 +107,6 @@
 			"user": "Poke Zach",
 			"link": "https://youtu.be/xjtn7wIEexk?si=IkDBpj2wiTTj-od6",
 			"percent": 77,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -128,21 +114,18 @@
 			"user": "sn0w",
 			"link": "https://youtu.be/OuLgFrnh98k",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 2
 		},
 		{
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/lZFAPCMEtN_5OZk-I?invite=cr-MSxNNlUsMTg1OTcxMTAw&v=68",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/lGxWpDJ7L-M",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		}

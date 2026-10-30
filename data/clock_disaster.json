@@ -15,7 +15,6 @@
 			"user": "Riley",
 			"link": "https://www.youtube.com/watch?v=ehzqgUp8A08",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 2
 		},
@@ -23,7 +22,6 @@
 			"user": "LimeDub",
 			"link": "https://youtu.be/bf22yPgmV7Q",
 			"percent": 100,
-			"hz": 288,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -31,7 +29,6 @@
 			"user": "Skip",
 			"link": "https://youtu.be/p30tj7H1r1s",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -39,7 +36,6 @@
 			"user": "Mystikl",
 			"link": "https://www.youtube.com/watch?v=AMSe4X2uULk",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -47,7 +43,6 @@
 			"user": "Hydraniac",
 			"link": "https://medal.tv/games/geometry-dash/clips/irOvFJy18MgnnYDAR/d1337nKliWxY?invite=cr-MSx1OXUsMTg1OTcxMTAwLA",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -55,7 +50,6 @@
 			"user": "attrixia",
 			"link": "https://www.youtube.com/watch?v=pxPjcdX4h58",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -63,7 +57,6 @@
 			"user": "HaydenTRX",
 			"link": "https://youtu.be/O3xPwv2yGZU",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -71,7 +64,6 @@
 			"user": "Hyperbeat",
 			"link": "https://www.youtube.com/watch?v=RaA8m5OODDY",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -79,28 +71,24 @@
 			"user": "sn0w",
 			"link": "https://youtu.be/OuLgFrnh98k",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "cindr R. blobk REAL VER",
 			"link": "https://www.youtube.com/watch?v=89eAEld03L8",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 3
 		},
 		{
 			"user": "DeltaGD",
 			"link": "https://medal.tv/games/geometry-dash/clips/lrXgpKgJczPZbA1js?invite=cr-MSxZcmMsMjU2MDQyMDAx&v=65",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 5
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/qnXornGLJiU",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -108,7 +96,6 @@
 			"user": "crystl",
 			"link": "https://www.youtube.com/watch?v=Zjjz1DKSC4Q",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 8
 		}
 	]

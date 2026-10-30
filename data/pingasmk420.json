@@ -14,7 +14,6 @@
 			"user": "Poke Zach",
 			"link": "https://truthsocial.com/@PokeZach/posts/113341911743882562",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 9
 		},
@@ -22,7 +21,6 @@
 			"user": "Blysteryx",
 			"link": "https://youtu.be/DVL1augSdko?si=LBZjaTgrVResyRZe",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -30,21 +28,18 @@
 			"user": "fusemax",
 			"link": "https://www.youtube.com/watch?v=aLU-BYdpZFA",
 			"percent": 100,
-			"hz": 144,
 			"enjoyment": 10
 		},
 		{
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/AcXjj7YA0SU",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeleteNine",
 			"link": "https://youtu.be/i_cA4y_isWs",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 6
 		},
@@ -52,7 +47,6 @@
 			"user": "sn0w",
 			"link": "https://youtu.be/icySPWIoHSg",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
 		},
@@ -60,7 +54,6 @@
 			"user": "Oganesson",
 			"link": "https://www.youtube.com/watch?v=1IICzFr-jnQ",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
 		},
@@ -68,21 +61,18 @@
 			"user": "sphericle",
 			"link": "https://youtu.be/6QINCLeNDlw",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 4
 		},
 		{
 			"user": "Tinkle",
 			"link": "https://www.youtube.com/watch?v=5Fhn5Jq21tI",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 7
 		},
 		{
 			"user": "",
 			"link": "https://youtu.be/JYfaz3wwj0Y",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -90,7 +80,6 @@
 			"user": "Screendoe",
 			"link": "https://youtu.be/JYfaz3wwj0Y",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 4
 		},
@@ -98,7 +87,6 @@
 			"user": "hayden",
 			"link": "https://youtu.be/w93ZfPXLxx0?si=RkEfJyvm2euORHH8",
 			"percent": 100,
-			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
 		},
@@ -106,7 +94,6 @@
 			"user": "mrcrunchywaffle",
 			"link": "https://www.youtube.com/watch?v=gS6nS6NwE1Y",
 			"percent": 100,
-			"hz": 100,
 			"mobile": false,
 			"enjoyment": 8
 		}

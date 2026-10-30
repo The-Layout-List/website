@@ -15,7 +15,6 @@
 			"user": "sn0w",
 			"link": "https://www.youtube.com/watch?v=rwgZeCn32TY",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -23,7 +22,6 @@
 			"user": "Hyperbeat",
 			"link": "https://youtu.be/0NlzfxqwKXc?si=J3MyMFyMwuYQs59b",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -31,7 +29,6 @@
 			"user": "NiXaNTy",
 			"link": "https://youtu.be/4c5R0mtkQG4?si=kxiOzt29DBQCXja-",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		},
@@ -39,7 +36,6 @@
 			"user": "Mystikl",
 			"link": "https://youtu.be/l8BFgxwYgWE",
 			"percent": 100,
-			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -47,7 +43,6 @@
 			"user": "Riley",
 			"link": "https://www.youtube.com/watch?v=88hjKR-69xE",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 5
 		},
@@ -55,7 +50,6 @@
 			"user": "rastuyas",
 			"link": "https://youtu.be/sUK0owfFsJc",
 			"percent": 100,
-			"hz": 480,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -63,7 +57,6 @@
 			"user": "attrixia",
 			"link": "https://youtu.be/tqxtgnrbWgg",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
 		},
@@ -71,28 +64,24 @@
 			"user": "Screendoe",
 			"link": "https://youtu.be/UyK_NBnVzF8",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 9
 		},
 		{
 			"user": "DeltaGD",
 			"link": "https://medal.tv/games/geometry-dash/clips/lqKKHx8u00xa1TB_j?invite=cr-MSxxMGYsMjU2MDQyMDAx&v=64",
 			"percent": 100,
-			"hz": 480,
 			"enjoyment": 4
 		},
 		{
 			"user": "Snake",
 			"link": "https://medal.tv/games/geometry-dash/clips/lr9z4SBwsVA5uQQxC?invite=cr-MSxxUlMsMjc0Njc5Nzgx&v=69",
 			"percent": 100,
-			"hz": 240,
 			"enjoyment": 10
 		},
 		{
 			"user": "sans_hanitizer",
 			"link": "https://youtu.be/2SQPUvZNwE0",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
 		},
@@ -100,7 +89,6 @@
 			"user": "DeleteNine",
 			"link": "https://youtu.be/4nlA9-C9Yeo",
 			"percent": 100,
-			"hz": 240,
 			"mobile": false,
 			"enjoyment": 10
 		}

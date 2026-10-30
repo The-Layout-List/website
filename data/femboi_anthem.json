@@ -15,7 +15,6 @@
 	  "user": "Riley",
 	  "link": "https://youtu.be/ohINdNjCIWY",
 	  "percent": 100,
-	  "hz": 360,
 	  "mobile": false,
 	  "enjoyment": 2
 	},
@@ -23,7 +22,6 @@
 	  "user": "attrixia",
 	  "link": "https://www.youtube.com/watch?v=JE9JnQ7b6JA",
 	  "percent": 100,
-	  "hz": 240,
 	  "mobile": false,
 	  "enjoyment": 2
 	}
