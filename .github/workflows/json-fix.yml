@@ -6,6 +6,8 @@ on:
 jobs:
   fix-json:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
         # download the files
       - name: Checkout code
@@ -57,4 +59,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+            github_token: ${{ GITHUB_TOKEN }}
