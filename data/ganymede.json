@@ -1,12 +1,21 @@
 {
 	"id": 149667376,
 	"name": "Ganymede",
-	"creators": ["Math19"],
+	"creators": [
+		"Math19"
+	],
 	"verifier": "Math19",
 	"verification": "https://www.youtube.com/watch?v=QgXft6BwoiI",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 4,
 	"song": "Solkrieg - Phobos",
-	"records": []
+	"records": [
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://www.youtube.com/watch?v=2nWU6Lkk0hI",
+			"percent": 100,
+			"enjoyment": 8
+		}
+	]
 }
