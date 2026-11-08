@@ -72,6 +72,13 @@
 			"percent": 100,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "evil++!",
+			"link": "https://youtu.be/ZqDvlKfUt7A",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }

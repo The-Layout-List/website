@@ -115,6 +115,13 @@
 			"link": "https://youtu.be/PAVF4hqple0",
 			"percent": 100,
 			"mobile": false
+		},
+		{
+			"user": "evil++!",
+			"link": "https://youtu.be/ZqDvlKfUt7A",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
