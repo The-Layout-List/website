@@ -601,6 +601,13 @@
 			"link": "https://youtu.be/tVAF0qfNMwU?si=H6DAmifnJ6XxhPUH",
 			"percent": 100,
 			"enjoyment": 9
+		},
+		{
+			"user": "huskie",
+			"link": "https://youtu.be/CnTZ2DwEa-g?si=S4CR393FHL1nf10G",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
