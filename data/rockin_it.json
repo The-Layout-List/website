@@ -17,6 +17,13 @@
 			"link": "https://youtu.be/vhvtdGSi3-4?si=aoqvwzJ-oQ-w8kr6",
 			"percent": 100,
 			"enjoyment": 5
+		},
+		{
+			"user": "robotic",
+			"link": "https://youtu.be/kVmRXKapLvo?si=lUlDertAwCpaLC7V",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
