@@ -463,6 +463,13 @@
 			"link": "https://youtu.be/531TsjPZh4I",
 			"percent": 100,
 			"enjoyment": 10
+		},
+		{
+			"user": "deryamix",
+			"link": "https://youtu.be/XHVtu8mrjP8?si=luDlMvoTPBGWWpno",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 7
 		}
 	]
 }
