@@ -10,14 +10,6 @@
 	"password": "Free to copy",
 	"difficulty": 10,
 	"song": "Viscerality - Upgrade",
-	"records": [
-		{
-			"user": "deletenine",
-			"link": "https://youtu.be/DWHo9gnHYBE",
-			"percent": 100,
-			"mobile": false,
-			"enjoyment": 8
-		}
-	],
+	"records": [],
 	"songLink": "https://drive.google.com/file/d/1rwSOZ6z7AYiqfyX1CuKEUgrdc2gM4Zqi/view?usp=drive_link"
 }
