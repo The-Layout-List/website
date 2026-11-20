@@ -1,7 +1,9 @@
 {
 	"id": 149298781,
 	"name": "Lighthouse",
-	"creators": ["Math19"],
+	"creators": [
+		"Math19"
+	],
 	"verifier": "Math19",
 	"verification": "https://www.youtube.com/watch?v=mKXkkhev3xE",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 5,
 	"song": "Bossfight – Partyt Är Igång!",
 	"enjoyment": 8,
-	"records": []
+	"records": [
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/DWHo9gnHYBE",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 10
+		}
+	]
 }
