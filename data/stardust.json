@@ -507,6 +507,12 @@
 			"percent": 100,
 			"mobile": false,
 			"enjoyment": 0
+		},
+		{
+			"user": "kameron88",
+			"link": "https://www.youtube.com/watch?v=kqG_7OdjoAc",
+			"percent": 100,
+			"mobile": true
 		}
 	]
 }
