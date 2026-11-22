@@ -61,6 +61,13 @@
 			"link": "https://youtu.be/F5XRzxZsl_M",
 			"percent": 100,
 			"enjoyment": 2
+		},
+		{
+			"user": "dunix",
+			"link": "https://youtu.be/EtGR42gbEQk?si=6VqgmUqWtKMZGqC4",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 9
 		}
 	]
 }
