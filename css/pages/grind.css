@@ -248,3 +248,24 @@ main.grind-page {
 .grind-actions > button {
     color: white;
 }
+
+/* Custom counter instead of native markers: the native marker ignores the
+   leading-trim on <p> (typography.css), so it sits too high and hugs the text. */
+.left-info-box > ol {
+    counter-reset: how-to-step;
+}
+
+.left-info-box > ol > li {
+    counter-increment: how-to-step;
+    display: grid;
+    grid-template-columns: 1.5em 1fr;
+    column-gap: 0.5rem;
+    padding-block: 1rem;
+}
+
+.left-info-box > ol > li::before {
+    content: counter(how-to-step) ".";
+    text-align: right;
+    /* match the top-leading trim applied by p::before so numbers line up with the first line */
+    margin-top: -0.4916666667em;
+}

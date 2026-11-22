@@ -66,18 +66,31 @@ export default {
                             class="director" 
                             @click="toggleInfoBox()"
                         >
-                        What is this?
+                        How to use
                         </h3>
                         <div v-if="clickedOnTheInfoThing" class="left-info-box">
                             <p>
-                                This page keeps track of what you haven't completed on the list yet, and can make submitting many levels at once way easier.
-                                When you beat a level, you can mark it as completed and set your enjoyment (and percentage, if it isn't 100%).
+                              This page keeps track of what you haven't yet completed on the list, and makes submitting multiple records at once way easier (list staff also greatly appreciate it!). Please use the grind page when submitting more than 2 levels. Otherwise, use the normal submit button.
                             </p>
+                            <ol type="1" class="how-to-use-list">
+                              <li>
+                                <p>
+                                  When you beat a level, set your enjoyment rating (and percentage, if not 100%), then click "Complete". On PC, you can use Ctrl + F to search for levels.
+                                </p>
+                              </li>
+                              <li>
+                                <p>
+                                  <strong>IMPORTANT:</strong> Please compile all of your completion recordings into one video using a video editing software. Make sure all your completions follow the <a href="/" target="_blank">record submission requirements</a>.
+                                </p>
+                              </li>
+                              <li>
+                                <p>
+                                  When you're ready, use the submit button (top left of this grind page) to submit everything all at once, and fill out the form. Once you submit, please reset your data with the "Reset" button.
+                                </p>
+                              </li>
+                            </ol>
                             <p>
-                                Your save data saves to your browser, but you can manually export it to a file as a backup above.
-                            </p>
-                            <p>
-                                Once you submit, please reset your data with the "Reset" button above.
+                              Your save data saves to your browser, but you can manually export it to a file with the "Export" button.
                             </p>
 
                         </div>
