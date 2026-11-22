@@ -329,6 +329,11 @@ export default {
                     ))
                 )
             })
+            if (completedOnSubmit.levels.length < 2) {
+                alert("You need to complete at least two levels before submitting! For a single level, please use the regular submission form.");
+                this.submitLoading = false;
+                return;
+            }
             completedOnSubmit.name = this.loggedIn
             const compressed = compressData(JSON.stringify(completedOnSubmit))
             const link = this.formUrl + `&entry.873982318=Yes&entry.82893587=${encodeURIComponent(compressed)}`
