@@ -18,6 +18,13 @@
 			"percent": 100,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "pewn",
+			"link": "https://www.youtube.com/watch?v=_aQO1Q44hAE&t=6s",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 10
 		}
 	]
 }
