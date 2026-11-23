@@ -44,6 +44,13 @@
 			"percent": 100,
 			"enjoyment": 3,
 			"mobile": true
+		},
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://www.youtube.com/watch?v=9G0hWzC7Ars",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 4
 		}
 	]
 }

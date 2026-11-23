@@ -111,6 +111,13 @@
 			"link": "https://youtu.be/Bx-Durzv06k?is=YoTJk6bltFj4RAsr",
 			"percent": 100,
 			"enjoyment": 9
+		},
+		{
+			"user": "mrcrunchywaffle",
+			"link": "https://www.youtube.com/watch?v=9G0hWzC7Ars",
+			"percent": 100,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
